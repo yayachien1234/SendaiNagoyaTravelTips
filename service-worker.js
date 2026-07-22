@@ -1,4 +1,4 @@
-const CACHE_NAME = "trip-cache-v1";
+const CACHE_NAME = "trip-cache-v2";
 const PRECACHE_URLS = [
   "./",
   "./index.html",
@@ -26,13 +26,17 @@ self.addEventListener("activate", (event) => {
   );
 });
 
-// cache-first: 離線優先吃快取，只有快取沒有才嘗試連網路
+// network-first：有網路一律拿最新版並更新快取，離線時才退回快取
+// （比cache-first好維護：以後改內容不用記得手動改版本號，使用者下次連網打開就會自動抓到新版）
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
   event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) return cached;
-      return fetch(event.request).catch(() => cached);
-    })
+    fetch(event.request)
+      .then((res) => {
+        const resClone = res.clone();
+        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, resClone));
+        return res;
+      })
+      .catch(() => caches.match(event.request))
   );
 });

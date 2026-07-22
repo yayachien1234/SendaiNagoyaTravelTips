@@ -68,6 +68,11 @@
     registerSW();
   }
 
+  function accommodationForDate(dateStr) {
+    const list = state.data.accommodations || [];
+    return list.find((a) => dateStr >= a.dateStart && dateStr <= a.dateEnd) || null;
+  }
+
   function pickInitialDayIndex() {
     const today = fmtDate(japanNow());
     const idx = state.dates.indexOf(today);
@@ -299,6 +304,13 @@
     });
 
     $$("nav.tabbar button").forEach((b) => b.addEventListener("click", () => switchScreen(b.dataset.screen)));
+
+    $("#hotel-fab").addEventListener("click", () => {
+      const timelineActive = $("#screen-timeline").classList.contains("active");
+      const refDate = timelineActive ? state.dates[state.dayIndex] : fmtDate(japanNow());
+      const acc = accommodationForDate(refDate) || (state.data.accommodations || [])[0];
+      if (acc) openSheet(acc);
+    });
   }
 
   function switchScreen(id) {

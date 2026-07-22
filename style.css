@@ -166,6 +166,13 @@ main{padding:10px 14px 20px; max-width:640px; margin:0 auto;}
 .cand-card .name{font-weight:700; font-size:.9rem;}
 .cand-card .city{font-size:.74rem; color:var(--muted); margin-top:2px;}
 
+/* ===== 住宿快速導航 fab ===== */
+#hotel-fab{
+  position:fixed; right:14px; bottom:76px; z-index:25;
+  width:52px; height:52px; border-radius:50%; background:var(--accent); color:#fff;
+  font-size:1.4rem; box-shadow:0 3px 10px rgba(0,0,0,.25); display:flex; align-items:center; justify-content:center;
+}
+
 /* ===== bottom tab bar ===== */
 nav.tabbar{
   position:fixed; left:0; right:0; bottom:0; z-index:30;

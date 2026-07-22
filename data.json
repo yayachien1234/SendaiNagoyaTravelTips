@@ -3015,5 +3015,34 @@
         "🍰點心"
       ]
     }
+  ],
+  "accommodations": [
+    {
+      "id": "3988c20adbcc80a7b2d4e8c890911dc6",
+      "name": "APA Hotel 仙台駅五橋",
+      "dateStart": "2026-07-28",
+      "dateEnd": "2026-07-31",
+      "map": "https://maps.app.goo.gl/opGzgs5fDVQqFNDz5",
+      "detail": "房型 : 2 X 客房 ( 兩床 )\n電話 01 : 0570-023-111\n電話 02 : +81 22-266-3111\n櫃檯服務時間 : 18:00 ~ 04:00\nCheck in : 15:00 ( 支援自助Check in )\nCheck out : 10:00 ( 支援自助Check out )\n入住 7/28–7/31 三晚",
+      "bookingConfirmationUrl": "https://www.notion.so/3988c20adbcc80a7b2d4e8c890911dc6"
+    },
+    {
+      "id": "3988c20adbcc806aa9f5c140189f021a",
+      "name": "ホテル松島大観荘",
+      "dateStart": "2026-07-31",
+      "dateEnd": "2026-08-01",
+      "map": "https://maps.app.goo.gl/xD3wvkkqKdAnL2Kv7",
+      "detail": "房型 : 山景房 ( 兩床 ) + 海景房 (兩房)\n電話 : +81223545214\n櫃檯服務時間 : 24hr\nCheck in : 14:00\nCheck out : 11:00\n入住 7/31–8/1 一晚（一泊二食）",
+      "bookingConfirmationUrl": "https://www.notion.so/3988c20adbcc806aa9f5c140189f021a"
+    },
+    {
+      "id": "39b8c20adbcc8116bc1af669d660b6e3",
+      "name": "名古屋Airbnb（栄5-12-30 Room 403）",
+      "dateStart": "2026-08-01",
+      "dateEnd": "2026-08-05",
+      "map": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8D%80%E6%A0%845-12-30",
+      "detail": "Room 403\nCheck in : 16:00 起\nCheck out : 10:00\n入住 8/1–8/5 四晚",
+      "bookingConfirmationUrl": "https://www.notion.so/39b8c20adbcc8116bc1af669d660b6e3"
+    }
   ]
 }

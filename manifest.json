@@ -1,0 +1,15 @@
+{
+  "name": "仙台・名古屋家族旅 2026",
+  "short_name": "家族行程",
+  "description": "仙台・名古屋家族旅行程表，離線可用",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f3f5",
+  "theme_color": "#33507a",
+  "lang": "zh-Hant",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

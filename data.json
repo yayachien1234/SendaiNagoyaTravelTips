@@ -1,0 +1,2377 @@
+{
+  "meta": {
+    "generatedAt": "2026-07-22T12:04:15.093Z",
+    "tripStart": "2026-07-28",
+    "tripEnd": "2026-08-05"
+  },
+  "timeline": {
+    "2026-07-28": [
+      {
+        "type": "item",
+        "id": "3988c20adbcc80d2ae67c26631d57434",
+        "time": "09:45",
+        "name": "《專車》家 → 台北桃園機場",
+        "category": "🚗移動",
+        "detail": "出國送機 --- 9人座\n搭車日期: 07/28\n搭車時間: 09:45\n(請注意不是飛機起飛時間)\n第幾航廈: T1\n班機編號: IT254\n姓名: 簡尚詮\n電話: 0923-176288\n地址: 汐止區國興街30巷6號\n幾位: 3\n行李: 3大3小\n付款:1500現金給司機",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3988c20adbcc8092ad71f8d3f361f53c",
+        "time": "13:45",
+        "name": "《飛機》TPE → SDJ",
+        "category": "🚗移動",
+        "detail": "航空公司 : 台灣虎航\n航班號碼 : IT254  \n起飛時間 : 7/28 台北 TPE 13:45 \n降落時間 : 7/28 仙台 SDJ 18:10",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3988c20adbcc80428a71e3c7fb057f2c",
+        "time": "19:00",
+        "name": "《空港鐵道》仙台空港 → JR仙台駅",
+        "category": "🚗移動",
+        "detail": "移動參考影片 : https://youtu.be/lOD3pHUViCA?si=3DKsmjcgOAqT_Pz6&t=16\n仙台空港發車時刻表 : 18:35、19:00、19:28、20:04、20:40、21:15、21:38、22:08、22:38、23:23\n預計上車 : 19:00\n預計下車 : 19:27",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3988c20adbcc8053891acd8b592e29ea",
+        "time": null,
+        "name": "《計程車》 仙台駅→ APA Hotel 仙台駅五橋",
+        "category": "🚗移動",
+        "detail": "使用APP : Uber\n設定上車地點 : 仙台駅\n設定下車地點 : APA HOTEL SENDAIEKI-ITSUTSUBASHI\n預計金額 : 1000日圓",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3988c20adbcc80c2934fe193cdc6f627",
+        "time": null,
+        "name": "《走路》仙台駅 → APA Hotel 仙台駅五橋",
+        "category": "🚗移動",
+        "detail": "不需要走空橋的走法 : 仙台駅 → 南出口2 →ウリ信用組合 東北支店 → APA Hotel 仙台駅五橋\n(與上一張計程車卡為兩種可選走法，擇一即可)",
+        "map": "https://maps.app.goo.gl/TqvWSZRQTf3vocKh8",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3988c20adbcc80a7b2d4e8c890911dc6",
+        "time": null,
+        "name": "《住宿》APA Hotel 仙台駅五橋",
+        "category": "🏡住宿",
+        "detail": "房型 : 2 X 客房 ( 兩床 )\n電話 01 : 0570-023-111\n電話 02 : +81 22-266-3111\n櫃檯服務時間 : 18:00 ~ 04:00\nCheck in : 15:00 ( 支援自助Check in )\nCheck out : 10:00 ( 支援自助Check out )\n浴場開放時間 : 3:00 p.m.-1:00 a.m./6:00 a.m.-10:00 a.m.\n2樓設施 : 浴場 、洗衣、冰塊、微波爐、販賣機、餐廳\n不走空橋的走法 : https://maps.app.goo.gl/GgRCi89wVzduUbQK6\n（入住7/28-7/31三晚，此卡代表抵達當晚辦理入住）",
+        "map": "https://maps.app.goo.gl/opGzgs5fDVQqFNDz5",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3988c20adbcc804a8720e5453e123a25",
+        "time": "20:30",
+        "name": "《晚餐》五橋横丁 たんや善治郎別館",
+        "category": "🍴美食",
+        "detail": "透過中信卡秘書服務預約\n預約狀況 : 確定預約\n預約時間 : 7/28 20:30\n預約人數 : 3名大人\n預約姓名 : Chien Chen-Yeh\n確認文件 : https://drive.google.com/file/d/1zCbf4xdQsLHq85footvTSFm5AF-yD3iN/view?usp=drive_link\n菜單資訊 : 【烤牛舌善治郎】仙台牛舌名店推薦｜午間定食、炭火燒肉、菜單與たんや善治郎 南町通り店開箱 @兎兒毛毛姐妹花",
+        "map": "https://maps.app.goo.gl/d3byTCcinXs5Tjbs5",
+        "viewerOnly": null
+      }
+    ],
+    "2026-07-29": [
+      {
+        "type": "item",
+        "id": "3998c20adbcc807aa4f8db54b8553c74",
+        "time": "09:00",
+        "name": "《早餐》いたがき本店（水果店早餐）",
+        "category": "🥯早餐 ☕咖啡廳",
+        "detail": "營業時間：每日 09:00–18:00（宮城野區二十人町，7 月底正逢桃季）\n網站：http://www.itagaki-jp.com/shop/01/\n電話號碼：+81 22-291-1221",
+        "map": "https://www.google.com/maps/place/Itagaki+Main+Shop+(Fruit+and+Sweets)/@38.2624174,140.8870609,17z/data=!3m1!4b1!4m6!3m5!1s0x5f8a281f770e0aed:0x73d7f3eaec2f2a33!8m2!3d38.2624174!4d140.8870609!16s%2Fg%2F11cm0h1zpn",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc80c9b118c2a3b7782806",
+        "time": null,
+        "name": "《活動》Loople 仙台",
+        "category": "👻活動",
+        "detail": "仙台觀光循環巴士，搭乘串連瑞鳳殿、仙台城跡等景點",
+        "map": "https://maps.app.goo.gl/DaGryh48CR4wKCPB6",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc810fb5f9da6d92073c69",
+        "time": null,
+        "name": "《神社》瑞鳳殿",
+        "category": "⛩️神社",
+        "detail": "開館時間:每日 09:00–16:50(最終入場 16:30)\n網站:https://www.zuihoden.com/\n電話號碼:022-262-6250\nGoogle評分:4.3★(6,952則)\n備註:伊達政宗靈廟,桃山風華麗建築;るーぷる仙台巴士可達",
+        "map": "https://maps.google.com/?cid=3231967922790058041",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc816baa4cd556830e3ba2",
+        "time": null,
+        "name": "《博物館》仙台綠彩館",
+        "category": "🏛️博物館 📍景點",
+        "detail": "開館時間:每日 09:00–19:00\n網站:https://parks-aobayama.jp/\n電話號碼:022-266-1651\nGoogle評分:4.3★(184則)\n備註:仙臺綠彩館,青葉山公園遊客中心(2023新建),免費;往仙台城跡順路",
+        "map": "https://maps.google.com/?cid=10480214627506732837",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc8149bb42cf6281b70114",
+        "time": null,
+        "name": "《景點》仙台城跡(青葉城)",
+        "category": "📍景點",
+        "detail": "開放時間:城跡廣場 24 小時自由參觀\n網站:https://www.city.sendai.jp/shisekichosa/kurashi/manabu/kyoiku/inkai/bunkazai/bunkazai/joseki/index.html\n電話號碼:022-214-8544\nGoogle評分:4.3★(1,413則)\n備註:伊達政宗騎馬像+俰瞰仙台市景;るーぷる仙台巴士可達;綠彩館、市博物館都在山下順路",
+        "map": "https://maps.google.com/?cid=3656166476635669349",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc81bc8281c972f1906f80",
+        "time": null,
+        "name": "《博物館》仙台市博物館",
+        "category": "🏛️博物館 📍景點",
+        "detail": "開館時間:週二~日 09:00–16:45/週一休\n網站:https://www.city.sendai.jp/museum/\n電話號碼:022-225-3074\nGoogle評分:4.1★(2,419則)\n備註:青葉山公園內;館藏伊達政宗的黑漆五枚胴具足(盔甲)等伊達家文物",
+        "map": "https://maps.google.com/?cid=2893081827624464620",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc805ab933d701dd9f3cb3",
+        "time": "11:30",
+        "name": "《美食》南三陸金華山 片倉うに屋",
+        "category": "🍴美食",
+        "detail": "營業時間:週一–六 11:30–14:00、17:00–21:00/週日休\nGoogle評分:4.2★(400則)\n備註:南三陸產海膽料理專門店;位於上杉1丁目(アソルティ上杉1F),地鐵南北線勾當台公園站北出口步行約6分;7月底正值三陸海膽季;午間只營業到14:00,建議11:30開店即到",
+        "map": "https://maps.app.goo.gl/gH2Qbr8oPqwxtDgUA",
+        "viewerOnly": null
+      },
+      {
+        "type": "free",
+        "label": "午餐後自由行動：我獨自前往富澤公園（排球少年聖地）與仙台市電保存館，家人可選擇早上沒逛完的仙台城跡周邊、或S-PAL仙台、仙台PARCO、仙台LOFT、Yodobashi仙台等百貨；17:00 前於牛たん料理 閣 集合晚餐"
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc80b181d4f1e37325a452",
+        "time": "17:00",
+        "name": "《晚餐》《美食》牛たん料理 閣 初恋通り店",
+        "category": "🍴美食",
+        "detail": "預約時間 : 2026/07/29 17 : 00\n預約人數 : 4人\n預約人 : 簡震業\n預約狀態 : 確定預約\n預約ID : 7MR5P7",
+        "map": "https://maps.app.goo.gl/qmouEM47zQY16qX56",
+        "viewerOnly": null
+      }
+    ],
+    "2026-07-30": [
+      {
+        "type": "item",
+        "id": "39a8c20adbcc81a6be2fc1cb48bdce56",
+        "time": "08:00",
+        "name": "《美食》仙台朝市",
+        "category": "🍴美食",
+        "detail": "營業時間:週一~六 08:00–17:00/週日休\n網站:http://www.sendaiasaichi.com/\n電話號碼:022-262-7173\nGoogle評分:4.0★(2,456則)\n備註:仙台站西口步行5分;齋藤可樂餅、はましん食堂都在市場內;7/30早餐計畫地",
+        "map": "https://maps.google.com/?cid=2267070710911775829",
+        "viewerOnly": null
+      },
+      {
+        "type": "free",
+        "label": "家人白天自由逛街購物（仙台城跡周邊沒逛完的可留到下午、S-PAL仙台、仙台PARCO、仙台LOFT、Yodobashi仙台；爸爸可去J&B北目町店、ディスクノート、丸善仙台AER店；媽媽可去ユザワヤ仙台店、NEEDLES AND PINS、Rilakkuma Store仙台），17:00 前集合晚餐"
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc807f8e79fae01fb6a023",
+        "time": "08:05",
+        "name": "仙台駅 → 二戶駅",
+        "category": "🚗移動",
+        "detail": "0805 → 0909",
+        "map": null,
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc803cae10d92f20d006bd",
+        "time": "09:35",
+        "name": "二戶駅 → 輕米文化交流中心",
+        "category": null,
+        "detail": "0935 → 1032",
+        "map": null,
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc801fbfc6e8c110debeec",
+        "time": null,
+        "name": "路線一",
+        "category": null,
+        "detail": "午餐前步行段\n起點:輕米文化交流中心(Ukamekan,巴士下車點)\n終點:雪谷川河川敷公園(黒尾・研磨排球場)\n途經町內 9 個點\n備註:終點直接銜接路線二起點",
+        "map": "https://maps.app.goo.gl/g3fDBpPDTnsypnbY7?g_st=al",
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc80a280dcf80e522a87ab",
+        "time": null,
+        "name": "《午餐》輕米食堂",
+        "category": null,
+        "detail": "",
+        "map": "https://maps.app.goo.gl/4NcBkAiXBCE7V2mb6",
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc805b9c2ff18102bf06d7",
+        "time": null,
+        "name": "路線二",
+        "category": null,
+        "detail": "午餐後步行段\n起點:雪谷川河川敷公園(黒尾・研磨排球場)\n終點:輕米文化交流中心(Ukamekan,回程搭車點)\n繞町南側 6 個點後折返\n備註:接路線一,13:56 巴士往二戶前收尾",
+        "map": "https://maps.app.goo.gl/7FKX48mLafBX95sY6?g_st=al",
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc8062a68ede9c1f9cbd91",
+        "time": "13:56",
+        "name": "輕米文化交流中心 → 二戶駅",
+        "category": null,
+        "detail": "1356 → 1502",
+        "map": null,
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc8031be46d19d48c7f33f",
+        "time": "15:19",
+        "name": "二戶駅 → 仙台駅",
+        "category": null,
+        "detail": "1519 → 1629",
+        "map": null,
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc8034966ededd713628cc",
+        "time": null,
+        "name": "《美食》馬肉専門店×牛タン うま囲 仙台駅前西口名掛丁店",
+        "category": "🍴美食",
+        "detail": "營業時間:週日–四 17:00–00:00/週五、六 17:00–02:00\n網站:https://horiifood.com/umai_sendainakakechouten\n電話號碼:022-265-1666\nGoogle評分:4.6★(1,717則)\n備註:馬肉+牛舌居酒屋,仙台駅西口名掛丁 AKビル9F(與蔵の庄本店同棟,它在4F);4人週四晚餐建議先電話訂位",
+        "map": "https://maps.app.goo.gl/jv9yysbUSumypHKaA",
+        "viewerOnly": null
+      }
+    ],
+    "2026-07-31": [
+      {
+        "type": "item",
+        "id": "3998c20adbcc80be8fa6ea79306e9884",
+        "time": "08:30",
+        "name": "《Check Out》APA Hotel 仙台駅五橋",
+        "category": "👻活動",
+        "detail": "Check out 時間  : 08 : 30 ( 10 : 00 前 )\n支援自助 Check Out",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3998c20adbcc80e4a9f1c38cd939f3bb",
+        "time": "09:00",
+        "name": "《JR仙石線》仙台駅 → 松島海岸駅",
+        "category": "🚗移動",
+        "detail": "欄位名稱　　\t班次 1\t班次 2\t班次 3\n列車編號　　\t781S       821S\t831S\n仙台站　　　　  07:51　  08:16　   09:00\n松島海岸　　　  08:32　 08:56　   09:39\n（搭乘 09:00 這班）",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3998c20adbcc80a2b410c87928dabd98",
+        "time": "10:00",
+        "name": "《觀光船》松島島巡觀光船 仁王丸",
+        "category": "👻活動",
+        "detail": "預約時間 : 10 : 00",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3998c20adbcc80b29af2c6549730018c",
+        "time": "11:30",
+        "name": "《午餐》《美食》 丼松島",
+        "category": "🍴美食",
+        "detail": "預約平台 : Google Map\n預約時間 : 2026/07/31 11 : 30\n預約人數 : 4\n預約人 : 簡震業\n預約狀態 : 確定預約",
+        "map": "https://maps.app.goo.gl/XXZi7o4U91q3GwE58",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3988c20adbcc801e80cadd7c1f7f1884",
+        "time": "13:40",
+        "name": "《接駁車》松島海岸站 → 大觀莊",
+        "category": "🚗移動",
+        "detail": "↓ 松島海岸站發車直達大觀莊的發車時間 ↓\n11 : 50 、 12 : 40 、 13 : 40 、14 : 40\n（搭乘 13:40 這班）",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39b8c20adbcc811781facef452404db7",
+        "time": "14:00",
+        "name": "《Check In》ホテル松島大観荘",
+        "category": "👻活動",
+        "detail": "Check in 時間 : 14:00\n地點 : LF 大廳櫃檯(24hr)\n備註 : 搭 13:40 接駁車抵達約 14:00;check in 後可再出門二次出擊(圓通院、瑞巖寺),計程車回鎮上約 5 分",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3988c20adbcc806aa9f5c140189f021a",
+        "time": "14:00",
+        "name": "《住宿》ホテル松島大観荘",
+        "category": "🏡住宿",
+        "detail": "房型 : 山景房 ( 兩床 ) + 海景房 (兩房)\n電話 : +81223545214\n櫃檯服務時間 : 24hr\nCheck in : 14:00\nCheck out : 11:00\n浴場開放時間 : 14:00 ~ 25:00 / 次日上午 ~ 10:00\nLF（大廳層）：大廳、賣店、精品店、茶廊、會員專用酒廊、吸菸區、會議室、會議廳\nM2F（夾層 2 樓）：卡拉OK包廂、宵夜區\n 1樓：美容按摩、大浴場・露天風呂、遊戲區、吸菸區、會議室\n 2樓：大宴會場\n 3樓：個室宴會場\n 7樓：主餐廳",
+        "map": "https://maps.app.goo.gl/xD3wvkkqKdAnL2Kv7",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3998c20adbcc81c58eede4657c3e9694",
+        "time": null,
+        "name": "《神社》瑞巖寺",
+        "category": "⛩️神社",
+        "detail": "拝観時間(7月):08:30–17:00,最終受付 16:30(參觀約30–40分)\n網站:https://www.zuiganji.or.jp/\n電話號碼:+81 22-354-2023\nGoogle評分:4.1★\n備註:伊達政宗家菩提寺、國寶本堂\n（check in 後的下午二次出擊景點之一）",
+        "map": "https://www.google.com/maps/search/?api=1&query=瑞巌寺",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3998c20adbcc81f4803cc69270074d0b",
+        "time": null,
+        "name": "《景點》五大堂",
+        "category": "⛩️神社",
+        "detail": "開放時間:每日 08:30–16:30\n網站:https://www.zuiganji.or.jp/\n電話號碼:+81 22-354-2023\nGoogle評分:4.2★\n備註:松島地標,走「透かし橋」上小島,看腳下海面\n（與瑞巖寺、圓通院同區，順路一起逛）",
+        "map": "https://www.google.com/maps/search/?api=1&query=瑞巌寺五大堂",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc81598b14d09a38c069ce",
+        "time": null,
+        "name": "《神社》圓通院",
+        "category": "⛩️神社",
+        "detail": "參拜時間:每日 09:00–16:00\n網站:https://www.entuuin.or.jp/\n電話號碼:022-354-3206\nGoogle評分:4.4★(2,181則)\n備註:瑞巖寺隔壁,苔庭與玖瑰園著名;可體驗數珠DIY\n（check in 後的下午二次出擊景點之一）",
+        "map": "https://maps.google.com/?cid=516282866570359311",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39b8c20adbcc816c9dece1e48a3a1434",
+        "time": "18:30",
+        "name": "《晚餐》La Céles(大観荘館內)",
+        "category": "🍴美食",
+        "detail": "晚餐時段 : 17:30 進場～20:30 最後進場\nLast Order : 21:00\n備註 : 尖峰時段可能分兩輪;訂房方案已含晚餐,訂房平台安排於館內 La Céles 餐廳(主餐廳在 7F);建議 18:30 進場,泡完湯再吃",
+        "map": null,
+        "viewerOnly": null
+      }
+    ],
+    "2026-08-01": [
+      {
+        "type": "item",
+        "id": "39b8c20adbcc815bb70bdb18fe500da6",
+        "time": null,
+        "name": "《Check Out》ホテル松島大観荘",
+        "category": "👻活動",
+        "detail": "Check out 時間 : 11:00 前\n備註 : 上午不排行程,浴場開到 10:00,泡完湯退房後接上10:30接駁車(10:34抵松島海岸站,接1032S回仙台);行李全程隨身帶著走",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39b8c20adbcc81089015e1bca1650a25",
+        "time": "10:30",
+        "name": "《接駁車》大觀莊 → 松島海岸站",
+        "category": "🚗移動",
+        "detail": "車程約50分\n固定發車時刻表(全日):08:00、08:30、09:00、09:30、10:00、10:30、11:00、11:30、12:20、13:20、14:20、14:50、15:20、15:50、16:20、16:50、17:20\n確定搭乘:10:30發車→10:34抵松島海岸站,接JR仙石線1032S回仙台(泡湯到10:00後30分鐘內退房出發,不趕)",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39b8c20adbcc81a3a45edb2aa84da2b2",
+        "time": "10:51",
+        "name": "《JR仙石線》松島海岸駅 → 仙台駅",
+        "category": "🚗移動",
+        "detail": "車程約40分、￥420\n確定班次:1032S 普通車 10:51發→11:29抵仙台駅\n備註:抵仙台駅後先到置物櫃寄放行李,再去午餐(牛たん 司 西口名掛丁店,預訂 11:50),午餐後取回行李,轉空港鐵道(Access線)13:30發前往仙台機場",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39b8c20adbcc81b18676db6f2a4a109c",
+        "time": "11:50",
+        "name": "《美食》牛たん 司 西口名掛丁店",
+        "category": "🍴美食",
+        "detail": "營業時間:每日 11:00–14:00、17:00–23:00\n網站:http://www.gyutan-tsukasa.co.jp/\n電話號碼:022-797-0265\nGoogle評分:4.3★(1,516則)\n備註:烤牛舌專門店,名掛丁 マジェスティビル 2F(注意中午只到 14:00)\n\n【行程安排】\n11:29抵仙台駅後先到置物櫃寄放行李,空手走過來入店,預訂時間建議 11:50\n四人(含姐姐)一起吃,午餐後姐姐在仙台駅道別,自行搭車返東京\n其余3人取回行李後,13:30 Access線前往仙台機場",
+        "map": "https://maps.google.com/?cid=383402565627072486",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3998c20adbcc808a9a36f315aebdf3f4",
+        "time": "13:30",
+        "name": "《空港鐵道》JR仙台駅  → 仙台空港",
+        "category": "🚗移動",
+        "detail": "移動參考影片 : https://youtu.be/qyZu8YiK6_0?si=Y-yF5iWE7-FGnVUt&t=410\n仙台駅發車時刻表 : 12 : 10 、 12 : 30 、 12 : 50 、 13 : 10 、 13 : 30、13 : 50 、 14 : 10\n預計上車 : 13 : 30\n預計下車 : 13 : 57",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3998c20adbcc80fc9471faf17073772c",
+        "time": "15:20",
+        "name": "《飛機》SDJ → NGO (14:00前抵達機場)",
+        "category": "🚗移動",
+        "detail": "航空公司 : 山羊航空\n航班號碼 : FW24\n起飛時間 : 8/1 仙台 SDJ 15:20 \n降落時間 : 8/1名古屋 NGO 16:30",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39b8c20adbcc81b7b6bce4176cc668ad",
+        "time": "17:17",
+        "name": "《名鉄特急》中部國際空港 → 名鉄名古屋",
+        "category": "🚗移動",
+        "detail": "特急一般車自由席 : ￥890、約 35–40 分\n確定班次 : 17:17 中部國際空港發 → 17:55 名鐵名古屋着(休日時刻表,38分)\n備註 : FW24 16:30 落地(T1);落地後約47分緩衝走到月台;抵名鐵名古屋後改搭計程車前往Airbnb(見下一張卡),不轉東山線避開拖行李爬樓梯",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3a48c20adbcc8190b61cf315e343d31c",
+        "time": null,
+        "name": "《計程車》名鉄名古屋 → 名古屋Airbnb",
+        "category": "🚗移動",
+        "detail": "距離約2.9–3.3km,車程約10–11分\n跳表車資約￥1,610–1,730\n備註:3人+行李共乘一台一般計程車即可;相較於轉東山線(需上樓梯,2站)更輕鬆,直達Airbnb門口",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39b8c20adbcc8116bc1af669d660b6e3",
+        "time": "17:30",
+        "name": "《Check In》名古屋 Airbnb",
+        "category": "👻活動",
+        "detail": "Check in : 16:00 起\n預計抵達 : 17:30–18:00(栄)\n備註 : Room 403;當晚行程待定(晚餐、Oasis 21/WCS 資料蒐集中)",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81ee81a8e05112cf6d1e",
+        "time": "19:00",
+        "name": "《美食》炭焼うな富士 栄HAERA店(鰻魚飯三吃)",
+        "category": "🍴美食",
+        "detail": "營業時間:每日 11:00–23:00\n網站:https://sumiyaki-unafuji.com/shops/sakae_haera/\n電話號碼:052-684-6378\nGoogle評分:4.6★(20則)\n備註:離住處最近(錦3 ザ・ランドマーク 4F),菜單與白壁本店相同\n\n預約狀況 : 確定預約\n預約時間 : 8/1 (六) 19:00\n預約人數 : 3人",
+        "map": "https://maps.google.com/?cid=6662031622643970988",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc8184b22fd28708da99a6",
+        "time": null,
+        "name": "《美食》手羽先むつみ 本店",
+        "category": "🍴美食",
+        "detail": "營業時間:每日 17:00–00:00\n網站:https://www.instagram.com/tebasakimutsumi\n電話號碼:052-684-5577\nGoogle評分:4.7★(732則)\n備註:排定 8/1 宵夜(逛街採購後,手羽先第一發);店内以吧檯為主、無三人桌,適合輕量吃",
+        "map": "https://maps.google.com/?cid=991316926109390217",
+        "viewerOnly": null
+      },
+      {
+        "type": "free",
+        "label": "宵夜後如還有力氣，可自由前往 Oasis 21 看夜景（水の宇宙船空中迴廊開到21:00）或栄百貨區逛街（唐吉訶德24小時），否則直接回住處休息"
+      }
+    ],
+    "2026-08-02": [
+      {
+        "type": "free",
+        "label": "上午大須自由購物：各自挑感興趣的店逛（二手3C、動漫特攝玩具、扭蛋、黑膠、拼布百貨、咖啡點心等，詳見候選清單），中午於矢場とん矢場町本店會合"
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc817eacb5eda85c9f3246",
+        "time": null,
+        "name": "《美食》矢場とん 矢場町本店(味噌豬排)",
+        "category": "🍴美食",
+        "detail": "營業時間：每日 11:00–21:00\n網站：https://www.yabaton.com/\n電話號碼：052-252-8810\nGoogle評分：4.1★（6,303則）\n備註：味噌豬排本店（矢場町，近大須）\n\n【行程安排】全家午餐會合點：上午在大須購物的我的+爸爸的路線、以及從車道回程的媽媽都在這合流，下午直接移動到栄（PARCO/LACHIC自由活動），晚餐馬喰一代",
+        "map": "https://maps.google.com/?cid=998878612653937480",
+        "viewerOnly": null
+      },
+      {
+        "type": "free",
+        "label": "午餐後至晚餐前自由活動：名古屋PARCO、LACHIC成城石井、丸善書店、Loft栄等百貨區逛街；傍晚可能遇上WCS大須遊行或大須夏まつり手筒花火（時間待官方公布）"
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81d29dc6d3257154b849",
+        "time": "20:00",
+        "name": "《美食》馬喰一代 名古屋栄(飛騨牛)",
+        "category": "🍴美食",
+        "detail": "營業時間:每日 11:30–22:30\n網站:https://bakuroichidai.jp/shop/nagoyasakae/\n電話號碼:052-963-4129\nGoogle評分:4.4★(1,028則)\n備註:8/2 晚餐;入店時間保留——視手筒花火散場而定(花火約19:00,看完回栄約20:00後入店仍來得及);飛騨牛一頭買燒肉(錦 BINO栄 5F)",
+        "map": "https://maps.google.com/?cid=1066726847778846093",
+        "viewerOnly": null
+      }
+    ],
+    "2026-08-03": [
+      {
+        "type": "item",
+        "id": "39c8c20adbcc8142bc2ff2d457d4ae33",
+        "time": "11:00",
+        "name": "《名鐵》名鐵名古屋 → 犬山(去程)",
+        "category": "🚗移動",
+        "detail": "票價：單程￥680、約25–30分(特急/急行自由席,班次密集免預約)\n11:00發車 → 11:30抵犬山\n備註：犬山駅西口出站往城下町本町通步行約8分，平路",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "free",
+        "label": "犬山城下町自由散策食べ歩き：本町通り依序有壽俵屋犬山井上邸(守口漬)、うし若丸本店(牛たこ焼)、犬山牛太郎、肉兵衛、蘭丸(飛騨牛系)，可穿插三光稲荷神社、どんでん館、城とまちミュージアム、犬山城外觀拍照，全長約700公尺，約 14:00 返回名鐵犬山站"
+      },
+      {
+        "type": "item",
+        "id": "3a48c20adbcc81e39189fe0f60e0d4e1",
+        "time": "14:00",
+        "name": "《名鐵》犬山 → 名鐵名古屋(回程)",
+        "category": "🚗移動",
+        "detail": "票價：單程￥680、約25–30分\n約 14:00 犬山發車 → 回名鐵名古屋，再轉あおなみ線(24分)前往金城ふ頭リニア鐵道館",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc8106b499d12b02c0a1f5",
+        "time": "15:15",
+        "name": "《博物館》リニア・鉄道館(磁浮鐵道館)",
+        "category": "🏛️博物館 📍景點",
+        "detail": "開館時間:週三–一 10:00–17:30/週二休\n網站:http://museum.jr-central.co.jp/\n電話號碼:052-389-6100\nGoogle評分:4.4★(11,568則)\n備註:金城ふ頭(あおなみ線終點,名古屋駅直達24分);排定 8/3 下午 15:15–17:15;爸媽視體力自由參加,想休息可先回栄;⚠️週二休",
+        "map": "https://maps.google.com/?cid=5541877711465919378",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81d3aa9cc56d8f6fdb6e",
+        "time": "18:00",
+        "name": "《美食》島正(味噌關東煮)",
+        "category": "🍴美食",
+        "detail": "營業時間:週一–五 17:00–22:00/週六日休\n網站:http://shimasho.biz/index.html\n電話號碼:052-231-5977\nGoogle評分:4.0★(661則)\n備註:味噌おでん老舖(伏見);已排 8/3 晚餐,約 18:00 入店;⚠️週末休",
+        "map": "https://maps.google.com/?cid=18106294777621723067",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81649111dbbf50ec5d53",
+        "time": null,
+        "name": "《美食》焼き鳥マル。(博多のよる)",
+        "category": "🍴美食",
+        "detail": "營業時間:每日 17:00–23:30\n電話號碼:052-262-7173\nGoogle評分:4.3★(141則)\n備註:排定 8/3 宵夜(島正晚餐後);博多風串燒,菜單有もつ鍋(牛腸鍋)系;栄3-11-18 B1F,與浮世ばなれ同棟可臨場换",
+        "map": "https://maps.google.com/?cid=3914830207545726595",
+        "viewerOnly": null
+      }
+    ],
+    "2026-08-04": [
+      {
+        "type": "item",
+        "id": "3a58c20adbcc816184b6f683caf02739",
+        "time": "08:55",
+        "name": "《交通》名古屋 → 枚方公園(去程)",
+        "category": "🚗移動",
+        "detail": "08:55 名古屋車站發 → 新幹線のぞみ317號(34分,16號月台) → 09:29 京都車站着\n09:36 近鐵特急(付費,1站,7分) → 09:43 近鐵丹波橋着,步行3分換乘\n09:51 京阪本線特急淀屋橋行(18分) → 10:09 枚方市着\n10:11 京阪本線準急行淀屋橋行(2分) → 10:13 枚方公園着,步行5分(東出口)\n10:18 抵達ひらかたパーク\n\n全程時間：83分鐘，總費用：￥7,070",
+        "map": null,
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81a9be62e58a6ca17794",
+        "time": null,
+        "name": "《博物館》Brother Museum(裁縫機)",
+        "category": "🏛️博物館",
+        "detail": "開館時間：週一至週五 10:00～17:00／週六日休\n網站：http://global.brother/ja/corporate/museum/\n電話號碼：052-824-2227\nGoogle評分：4.3★（295則）\n備註：免費；改由爸媽兩人參觀（我去大阪），參觀完自行安排下午；搭名城線從久屋大通/栄直達約20分；晚餐三人於Lamian集合，約18:00",
+        "map": "https://maps.google.com/?cid=6706981227682059622",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3a58c20adbcc81129a64fae5be511f4e",
+        "time": "10:18",
+        "name": "《活動》全スーパー戦隊展(大阪會場)",
+        "category": "👻活動",
+        "detail": "展期：2026/7/18～9/27，每日 10:00〜17:00（最後入場 16:30）\n地點：ひらかたパーク イベントホール\n地址：大阪府枚方市枚方公園町1-1\n備註：排定8/4 10:18-13:00左右參觀（我自己去，爸媽留名古屋與Brother Museum）",
+        "map": "https://www.google.com/maps/search/?api=1&query=ひらかたパーク",
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "3a58c20adbcc8174950ef3bd4a56f778",
+        "time": "13:07",
+        "name": "《交通》枚方公園 → 日本橋(大阪)",
+        "category": "🚗移動",
+        "detail": "13:07 枚方公園發,步行6分(東出口進站) → 13:13 京阪本線準急行淀屋橋行(25分,8站,2號月台) → 13:38 北濱(大阪)着,步行3分換乘\n13:44 大阪地鐵 K線(普通,5分,3站,1號月台) → 13:49 抵日本橋(大阪)\n\n全程時間：42分鐘，費用：￥590",
+        "map": null,
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81719314f3a0aa24a3f7",
+        "time": "13:15",
+        "name": "《美食》すごいTKG たまらん",
+        "category": "🍴美食",
+        "detail": "營業時間:每日 11:00–15:00\n網站:https://tabelog.com/aichi/A2301/A230103/23085755/\n電話號碼:052-211-7553\nGoogle評分:3.9★(92則)\n備註:排定 8/4 午餐(約13:15,Brother 回程名城線栄站上蓋マルエイガレリア 3F);生蛋拌飯專門,⚠️只開午間",
+        "map": "https://maps.google.com/?cid=118131947167438620",
+        "viewerOnly": null
+      },
+      {
+        "type": "free",
+        "label": "爸媽參觀完Brother Museum、午餐後，下午可自行前往東区泉一帶老店歇腳，例如鍋屋（廚房用品老舖）、Ito Coffee（伊藤珈琲本店）、喫茶ボンボン（復古蛋糕），18:00 於 Lamian 與我會合晚餐"
+      },
+      {
+        "type": "item",
+        "id": "3a58c20adbcc818aaeaeeff1a0fb41d6",
+        "time": "13:49",
+        "name": "《購物》日本橋 でんでんタウン(自由活動)",
+        "category": "🛒購物",
+        "detail": "大阪的動漫/模型/二手3C商圈，類似大須\n備註：排定 13:49–15:50 自由活動（為配合18:00 Lamian晚餐訂位提前收尾），不指定單一店家，現場挖寶",
+        "map": "https://www.google.com/maps/search/?api=1&query=でんでんタウン",
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "3a58c20adbcc81fea3d6d87cd9a4bf60",
+        "time": "15:50",
+        "name": "《交通》日本橋(大阪) → 名古屋(回程)",
+        "category": "🚗移動",
+        "detail": "15:50 日本橋(大阪)發,步行9分(600公尺) → 15:59 難波站着 → 御堂筋線普通(16分,7站) → 16:15 新大阪着,步行4分換乘\n16:30 新幹線のぞみ100號(48分,2站,Central Japan Railway) → 17:18 抵名古屋車站\n\n全程時間：88分鐘，費用：￥6,970\n備註：抵名古屋後轉地鐵到栄與爸媽會合吃Lamian晚餐（訂位18:00），抵店約17:40前後，留有緩衝",
+        "map": null,
+        "viewerOnly": "me"
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81828d5eff9720a27513",
+        "time": "18:00",
+        "name": "《美食》Lamian(居酒屋)",
+        "category": "🍴美食",
+        "detail": "營業時間：週一至週五 17:00～23:00／週六日 15:00～23:00\n電話號碼：052-684-4411\nGoogle評分：4.6★（62則）\n備註：居酒屋（東桜）；改為 8/4 全家會合晚餐（不再去丸小），已訂位 18:00 入店；單點式比較實惠",
+        "map": "https://maps.google.com/?cid=17392127425557378073",
+        "viewerOnly": null
+      }
+    ],
+    "2026-08-05": [
+      {
+        "type": "item",
+        "id": "39c8c20adbcc8172bafdcf4a7bdd197c",
+        "time": "10:00",
+        "name": "《Check Out》名古屋 Airbnb",
+        "category": "👻活動",
+        "detail": "Check out 時間 : 10:00\n行李 : 10:00 check out後計程車載行李直接到名古屋駅(名鐵側)寄置物櫃;⚠️3大3小行李量,尖峰期(お盆連假)大型置物櫃可能滿,先想備案(分站寄放/問房東能否延後退房)\n順序 : 寄置物櫃→つばめパン早餐→名鐵轉栄生站逛トヨタ產業技術記念館/ノリタケの森/蔦屋書店→名鐵回名駅→柳橋さんりょう午餐→名駅周邊購物→18:00名鐵特急取行李往中部機場(T2),19:00前抵達,21:45 IT209",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3a58c20adbcc81af8245fbc5a6489c48",
+        "time": "10:00",
+        "name": "《交通》栄Airbnb → 名古屋駅（計程車）",
+        "category": "🚗移動",
+        "detail": "10:00 check out後於Airbnb外招車（或用GO App叫車）→名古屋駅（名鉄口）\n距離約3km，車程約10–15分（視路況）\n車資估算約¥1,300–1,800（以跳表為準）\n備註：3大3小行李量，建議叫大型車款，確保能一次裝下不用分兩趟",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3998c20adbcc817a8fb2cae975044619",
+        "time": null,
+        "name": "《早餐》つばめパン&Milk 名駅店",
+        "category": "🥯早餐",
+        "detail": "營業時間:每日 08:00–20:00\n網站:http://tsubamepan.jp/\n電話號碼:052-433-6636\nGoogle評分:4.0★(909則)\n備註:名駅4丁目麵包店;8/5 check out後寄完置物櫃在此吃早餐,再轉名鐵去栄生站逛豐田紀念館",
+        "map": "https://maps.google.com/?cid=8439065115581629510",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3a58c20adbcc8115a44fee42c501db2f",
+        "time": null,
+        "name": "《交通》名古屋駅 → 栄生駅（往豐田紀念館）",
+        "category": "🚗移動",
+        "detail": "名鉄名古屋 1番線發車 → 栄生 1番線著，約3分鐘，不用轉乘\n名鉄名古屋本線急行（一宮行）或犬山線準急/普通皆可搭，班次密集（約每2–3分一班，不用特別對時刻）\n票價：¥180（IC）\n備註：寄完置物櫃、吃完つばめパン早餐後搭這班去トヨタ産業技術記念館",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc812eb78cee0b1f558677",
+        "time": null,
+        "name": "《博物館》トヨタ産業技術記念館",
+        "category": "🏛️博物館",
+        "detail": "開館時間:週二–日 09:30–17:00/週一休\n網站:https://www.tcmit.org/\n電話號碼:052-551-6115\nGoogle評分:4.6★(13,575則)\n備註:名鉄栄生站;室內平面長椅多",
+        "map": "https://maps.google.com/?cid=11805139369241827115",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81a28566edf4c4a46e33",
+        "time": null,
+        "name": "《景點》ノリタケの森(則武之森)",
+        "category": "📍景點",
+        "detail": "營業時間:週二–日 10:00–17:00/週一休\n網站:https://www.noritake.co.jp/mori/\nGoogle評分:4.1★(7,982則)\n備註:則武瓷器園區;與豐田產業技術紀念館步行可達",
+        "map": "https://maps.google.com/?cid=16165763352278226642",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81188dfff17c6e37ec3c",
+        "time": null,
+        "name": "《購物》蔦屋書店 則武新町",
+        "category": "🛒購物 ☕咖啡廳",
+        "detail": "營業時間:每日 10:00–21:00\n網站:https://store-tsutaya.tsite.jp/store/detail?storeId=4255\n電話號碼:052-446-5505\nGoogle評分:4.2★(1,268則)\n備註:イオンモールNagoya Noritake Garden內,ノリタケの森/豐田紀念館旁,可綁同半天",
+        "map": "https://maps.google.com/?cid=16381417079644055821",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3a58c20adbcc8186a403e115091b2b32",
+        "time": null,
+        "name": "《交通》栄生駅 → 名古屋駅（回程午餐）",
+        "category": "🚗移動",
+        "detail": "栄生 → 名鉄名古屋，約3分鐘，不用轉乘，方向與去程相反\n票價：¥180（IC）\n備註：逛完トヨタ産業技術記念館/ノリタケの森/蔦屋書店後搭這班回名駅，接著吃柳橋さんりょう午餐",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc8185ba3bd8b3a6d3bab5",
+        "time": "13:45",
+        "name": "《美食》柳橋さんりょう",
+        "category": "🍴美食",
+        "detail": "營業時間:每日 11:00–14:30、17:30–21:30\n網站:https://www.instagram.com/yanagibashi_sanryo/\n電話號碼:052-990-9889\nGoogle評分:4.4★(226則)\n備註:排定 8/5 午餐(約13:45,返台前最後一餐);柳橋中央市場旁(名駅4丁目),從豐田紀念館回名駅順路",
+        "map": "https://maps.google.com/?cid=14036599143220362506",
+        "viewerOnly": null
+      },
+      {
+        "type": "free",
+        "label": "午餐後至18:00前，名駅周邊自由購物（JR高島屋 Hands、アニメイト名古屋、Échiré艾許奶油可頌等），18:00 前回名鐵名古屋站取行李搭車去機場"
+      },
+      {
+        "type": "item",
+        "id": "3a58c20adbcc819b9c25d4bd7919ed17",
+        "time": "18:00",
+        "name": "《交通》名古屋駅 → 中部国際空港（セントレア）",
+        "category": "🚗移動",
+        "detail": "名鉄名古屋 4番線發車，名鉄特急（或準急）中部国際空港行，直達不用轉乘\n車程約38–45分鐘\n票價：¥980（IC，一般特急免另加費；如搭ミュースカイ需另加特別車料金，屆時再確認車種）\n班距約每20–30分一班\n備註：抓18:00左右發車，約18:40–18:45抵達，銜接19:00前抵機場、世界の山ちゃん晚餐；出發前一晚建議上名鉄官網查當天正確時刻",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39d8c20adbcc8171be13e38234e6f0b8",
+        "time": "19:00",
+        "name": "《晚餐》世界の山ちゃん セントレア店(機場手羽先)",
+        "category": "🍴美食",
+        "detail": "營業時間:每日 09:00–21:00\n電話號碼:0569-38-1155\nGoogle評分:3.5★(308則)\n備註:中部機場 T1 4F;幻の手羽先(胡椒辣系);19:00 抵機場後晚餐,吃完留 T1→T2 步行 5–10 分,21:45 IT209 從 T2 飛",
+        "map": "https://maps.google.com/?cid=9594752264846396024",
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "3998c20adbcc80d39bd8eed8d2f505fa",
+        "time": "21:45",
+        "name": "《飛機》NGO → TPE (19:00到機場)",
+        "category": "🚗移動",
+        "detail": "航空公司 : 台灣虎航\n航班號碼 : IT209  \n起飛時間 : 8/5 名古屋  NGO 21 : 45 \n降落時間 : 8/5 台北 TPE 23 : 45",
+        "map": null,
+        "viewerOnly": null
+      },
+      {
+        "type": "item",
+        "id": "39a8c20adbcc80b1bb50f7c3051326be",
+        "time": "23:45",
+        "name": "《專車》台北桃園機場 → 家",
+        "category": "🚗移動",
+        "detail": "回國接機 --- 9人座\n抵台日期: 08/05\n表定時間: 23:45\n(請注意不要加通關時間)\n班機編號: IT209\n第幾航廈: T1\n姓名: 簡尚詮\n電話: 0923-176288\n幾位: 3\n行李: 3大3小\n接到哪: 汐止區國興街30巷6號\n付款: 1700 現金給司機",
+        "map": null,
+        "viewerOnly": null
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "id": "3988c20adbcc8000b24cdd51b1c41296",
+      "name": "《西友 五橋店》",
+      "category": "🍎超市",
+      "city": "仙台市區",
+      "detail": "營業時間 : 24 小時營業",
+      "map": "https://maps.app.goo.gl/yjMvvj4wrpDDhEbu8"
+    },
+    {
+      "id": "3988c20adbcc80019226f61a121f57e8",
+      "name": "《Lalagarden長町》",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 10:00 ~ 22:00\n大約地點 : (蠻遠的)地鐵長町南站徒步1min",
+      "map": "https://maps.app.goo.gl/xEaPLd34dG5m8ms18"
+    },
+    {
+      "id": "3988c20adbcc8005b03af0656073ee39",
+      "name": "《AEON EXPRESS 仙台北目町》",
+      "category": "🍎超市",
+      "city": "仙台市區",
+      "detail": "營業時間 : 08:00–23:00",
+      "map": "https://maps.app.goo.gl/9rLT7hLheW7qH7yw7"
+    },
+    {
+      "id": "3988c20adbcc800ca3cfcee9a403d451",
+      "name": "《FamilyMart 仙台 APA Hotel》",
+      "category": "🏪便利商店",
+      "city": "仙台市區",
+      "detail": "",
+      "map": "https://maps.app.goo.gl/zn1VBCQgavyuw5ZY6"
+    },
+    {
+      "id": "3988c20adbcc8017b0eedae6b0270046",
+      "name": "《仙台PARCO》動漫迷必到",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 10:00 ~ 20:00\n大約地點 : 仙台車站",
+      "map": "https://maps.app.goo.gl/DnMBk5D7UW4ckmMT9"
+    },
+    {
+      "id": "3988c20adbcc801cafeafb6f117c464f",
+      "name": "《COOP Miyagi》",
+      "category": "🍎超市",
+      "city": "仙台市區",
+      "detail": "營業時間 : 09:30–23:00",
+      "map": "https://maps.app.goo.gl/bKBZbjGv3qNB3YTT6"
+    },
+    {
+      "id": "3988c20adbcc801fb960db7eb67bdcd7",
+      "name": "《成城石井 エスパル仙台店》",
+      "category": "🍎超市",
+      "city": "仙台市區",
+      "detail": "營業時間 : 10:00–22:00",
+      "map": "https://maps.app.goo.gl/mvG7E141FVqTdCYh9"
+    },
+    {
+      "id": "3988c20adbcc80419c70c1621ce25dc6",
+      "name": "《THE MALL 仙台長町》24小時超市",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 24 小時營業\n大約地點 : (很遠)地鐵長町南站徒步1min",
+      "map": "https://maps.app.goo.gl/bi2zH4qpz79oPQtk6"
+    },
+    {
+      "id": "3988c20adbcc805581cefd934c51e785",
+      "name": "《早餐》Cafe 青山文庫",
+      "category": "🥯早餐 ☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "營業時間：07:30–23:00\n菜單 : https://weare-bestcafe.com/aoyamabunko/\n網站 : https://weare-bestcafe.com/aoyamabunko/\n電話號碼 : +81222095115",
+      "map": "https://maps.app.goo.gl/juhigbK7aiL3k6e97"
+    },
+    {
+      "id": "3988c20adbcc8065a748fc1f377e0582",
+      "name": "《S-PAL》伴手禮集中地",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 10:00 ~ 20:00\n大約地點 : 仙台車站內",
+      "map": "https://maps.app.goo.gl/7UawkUQAXa8oZnAdA"
+    },
+    {
+      "id": "3988c20adbcc8074a604dc1eee4933b7",
+      "name": "《仙台泉 PREMIUM OUTLET》",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 10:00–20:00\n大約地點 : 地鐵 泉中央站",
+      "map": "https://maps.app.goo.gl/vjjKch4qWS2jyrda8"
+    },
+    {
+      "id": "3988c20adbcc809c810cf52a7c4ba1b0",
+      "name": "《AEON MALL 名取》仙台機場旁邊",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 10:00–21:00\n大約地點 : 仙台機場Access線 杜關之下站 徒步2min",
+      "map": "https://maps.app.goo.gl/HyT1Tfkw6nsZ73vq7"
+    },
+    {
+      "id": "3988c20adbcc80aa9563f4bfa8482e78",
+      "name": "《仙台LOFT》",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 10:00–20:00\n大約地點 : 仙台車站西口",
+      "map": "https://maps.app.goo.gl/FQuS52ZF7EkTfjxp8"
+    },
+    {
+      "id": "3988c20adbcc80b69d22fa34de950a58",
+      "name": "《AEON Express 仙台五橋駅前》",
+      "category": "🍎超市",
+      "city": "仙台市區",
+      "detail": "營業時間 : 08:00–23:00",
+      "map": "https://maps.app.goo.gl/SKCXFPYab4R9Vh7p9"
+    },
+    {
+      "id": "3988c20adbcc80c88393f96855babacd",
+      "name": "《AEON》",
+      "category": "🍎超市",
+      "city": "仙台市區",
+      "detail": "營業時間 : 08:00–23:00",
+      "map": "https://maps.app.goo.gl/jkEQb5UME2Fm3oZA6"
+    },
+    {
+      "id": "3988c20adbcc80cdba72ffd9819c6cad",
+      "name": "《Lopia 仙台Yodobashi》",
+      "category": "🍎超市",
+      "city": "仙台市區",
+      "detail": "營業時間 : 10:00–21:00",
+      "map": "https://maps.app.goo.gl/1t4XYzdXuTNGfFC7A"
+    },
+    {
+      "id": "3988c20adbcc80d1a3f6d301a6006df4",
+      "name": "《Yodobashi 仙台》",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 09:30 ~ 22:00\n大約地點 : 仙台駅東口",
+      "map": "https://maps.app.goo.gl/7HjWwacrYYxCcYfXA"
+    },
+    {
+      "id": "3988c20adbcc80e99674c920c980f056",
+      "name": "《三井OUTLET PARK 仙台港》往返松島可途經",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 10:00–20:00\n大約地點 : JR 中野榮站 徒步8min",
+      "map": "https://maps.app.goo.gl/rmjbGaAyrArYJNgdA"
+    },
+    {
+      "id": "3988c20adbcc80ed947be20e5d2d35ee",
+      "name": "《北野エース エスパル仙台店》",
+      "category": "🍎超市",
+      "city": "仙台市區",
+      "detail": "營業時間：10:00–21:00",
+      "map": "https://maps.app.goo.gl/JUKbe9vkj5G2HQ4x5"
+    },
+    {
+      "id": "3988c20adbcc80f3ba08db4c4c2251b2",
+      "name": "《仙台商店街》",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間 : 大約到 20:00\n大約地點 : 仙台駅西邊徒步3min",
+      "map": "https://maps.app.goo.gl/TN8vNCUoY3jNEXJbA"
+    },
+    {
+      "id": "3998c20adbcc804c93c9d798a512538b",
+      "name": "《早餐》Date Cafe O'rder",
+      "category": "🥯早餐",
+      "city": "仙台市區",
+      "detail": "營業時間 : 07:15–22:00",
+      "map": "https://maps.app.goo.gl/uVKwcR3eC29YB2yD6"
+    },
+    {
+      "id": "3998c20adbcc8050b23cc06924e92883",
+      "name": "《早餐》HONOKA COFFEE 仙台駅店",
+      "category": "🥯早餐 ☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "營業時間：每日 07:00–20:00（仙台駅 1F tekute，8/1 退房日搭新幹線前最順）\n網站：https://ec.honokacoffee.com/\n電話號碼：+81 22-398-8211",
+      "map": "https://maps.app.goo.gl/ZFStjzKBNCuKyMCFA"
+    },
+    {
+      "id": "3998c20adbcc8056a10fdaeae07f65a6",
+      "name": "《早餐》HEY（片平早午餐咖啡）",
+      "category": "☕咖啡廳 🥯早餐",
+      "city": "仙台市區",
+      "detail": "營業時間： 09:30–17:00\n網站：https://www.instagram.com/hey_oval_welcome\n電話號碼：+81 80-9638-2097",
+      "map": "https://www.google.com/maps/search/?api=1&query=HEY+cafe+%E4%BB%99%E5%8F%B0+%E7%89%87%E5%B9%B3"
+    },
+    {
+      "id": "3998c20adbcc808590cec4cee05ed74a",
+      "name": "《早餐》THE CITY BAKERY 仙台",
+      "category": "🥯早餐",
+      "city": "仙台市區",
+      "detail": "營業時間：每日 08:00–20:00\n網站：https://thecitybakery.jp/shop/sendai01\n電話號碼：+81 22-369-9013",
+      "map": "https://www.google.com/maps/place/THE+CITY+BAKERY+%E4%BB%99%E5%8F%B0%E8%AA%AD%E5%A3%B2%E2%BB%98%E8%91%89%E3%83%86%E3%83%A9%E3%82%B9/@38.2621468,140.8756943,16z/data=!3m1!4b1!4m6!3m5!1s0x5f8a29001eaba3ed:0xebc1f1ea9248399f!8m2!3d38.2621468!4d140.8756943!16s%2Fg%2F11yb_zk5bd"
+    },
+    {
+      "id": "3998c20adbcc811b8ecfcc1c76556d7f",
+      "name": "《活動》丸文松島觀光船",
+      "category": "👻活動",
+      "city": "松島",
+      "detail": "政宗コース(松島⇔松島):09:00–15:00,約50分(繁忙期有16:00臨時班)\n票價:大人¥1,500/小學生¥750\n當日預約:08:30–14:30(電話或網路)\n網站:https://www.marubun-kisen.com/\n電話號碼:+81 22-354-3453\nGoogle評分:4.1★\n備註:與島巡り觀光船二擇一即可,另有鹽釜航線",
+      "map": "https://www.google.com/maps/search/?api=1&query=丸文松島汽船"
+    },
+    {
+      "id": "3998c20adbcc81298b4cc8a5d68bcfd4",
+      "name": "《點心》クロワッサン屋サクサク本店",
+      "category": "🍰點心",
+      "city": "松島",
+      "detail": "營業時間:週三~週一 10:00–17:00/週二休\n網站:https://www.instagram.com/sakusaku_flagshipstore/\n電話號碼:+81 22-290-4687\nGoogle評分:4.5★",
+      "map": "https://www.google.com/maps/search/?api=1&query=クロワッサン屋サクサク本店"
+    },
+    {
+      "id": "3998c20adbcc812d8073f8361876ab48",
+      "name": "《早餐》imagine(北仙台,07:00 開)",
+      "category": "🥯早餐",
+      "city": "仙台市區",
+      "detail": "營業時間:週二~週六 07:00–14:00、17:30–23:30;週日 07:00–16:00;週一休(青葉區昭和町5-19)\n網站:https://www.instagram.com/imagine.sendai/\n電話號碼:+81 22-728-6575",
+      "map": "https://www.google.com/maps/place/imagine/@38.2819144,140.8674938,17z/data=!3m1!4b1!4m6!3m5!1s0x5f89872a91c72923:0x8d9fe2f76cc25eb3!8m2!3d38.2819144!4d140.8674938!16s%2Fg%2F11h_445xq9"
+    },
+    {
+      "id": "3998c20adbcc812fb428c7c43bf01f0c",
+      "name": "《點心》松島雪竹屋",
+      "category": "🍰點心",
+      "city": "松島",
+      "detail": "營業時間:每日 10:00–17:30\n網站:https://www.facebook.com/yukitakeya109/\n電話號碼:+81 22-354-2612\nGoogle評分:4.1★\n備註:現烤仙貝(五大堂對面)",
+      "map": "https://www.google.com/maps/search/?api=1&query=松島雪竹屋"
+    },
+    {
+      "id": "3998c20adbcc8138993cc11192dd607b",
+      "name": "《早餐》星乃珈琲店 マーブルロード店",
+      "category": "🥯早餐 ☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "營業時間: 09:00–21:00\n網站:https://www.hoshinocoffee.com/\n電話號碼:待確認",
+      "map": "https://maps.app.goo.gl/84rbTN4ZRyKG5MK86"
+    },
+    {
+      "id": "3998c20adbcc81489bcfd8f0ab9c9441",
+      "name": "《活動》松島島巡り觀光船",
+      "category": "👻活動",
+      "city": "松島",
+      "detail": "仁王丸コース:09:00–16:00 每整點出航,繞灣一周約50分\n票價:大人¥1,500/小學生¥750,小學以下免費\n售票處:4–10月 08:00–17:00\n網站:https://www.matsushima.or.jp/tw/timesheet/\nGoogle評分:4.2★",
+      "map": "https://www.google.com/maps/search/?api=1&query=松島島巡り観光船"
+    },
+    {
+      "id": "3998c20adbcc8156b8b1d65953182229",
+      "name": "《點心》松島布丁亭",
+      "category": "🍰點心",
+      "city": "松島",
+      "detail": "營業時間:週四~週二 10:00–17:00/週三休\n網站:https://matsushima-purintei.com/\nGoogle評分:4.3★\n備註:松島プリン亭,布丁專賣",
+      "map": "https://maps.app.goo.gl/HMgihfByu6DGZZAq8"
+    },
+    {
+      "id": "3998c20adbcc815786c8ef43d7caac18",
+      "name": "《早餐》Public Coffee(長町)",
+      "category": "🥯早餐 ☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "營業時間:週二~週日 08:00–17:00;週一休(太白區長町3-7-3,地下鐵長町站一帶)\n網站:https://www.hotpepper.jp/strJ001120041/\n電話號碼:+81 22-738-7463",
+      "map": "https://maps.app.goo.gl/seQhBFLUk7uECcmSA"
+    },
+    {
+      "id": "3998c20adbcc819cb584fb25f0d9ec24",
+      "name": "《早餐》コメダ珈琲店 仙台Marble Road店",
+      "category": "🥯早餐 ☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 07:00–23:00(モーニング:開店~11:00 點飲料送吐司;一番町3-2-24 H&Hビル2階)\n網站:https://www.komeda.co.jp/\n電話號碼:+81 22-281-8281",
+      "map": "https://www.google.com/maps/place/%E5%AE%A2%E7%BE%8E%E5%A4%9A%E5%92%96%E5%95%A1+%E4%BB%99%E5%8F%B0Marble+Road%E5%BA%97/@38.2605612,140.8731178,16z/data=!3m1!4b1!4m6!3m5!1s0x5f8a29a973d11cbb:0x44f862772bb9fb83!8m2!3d38.2605612!4d140.8731178!16s%2Fg%2F11k9mm8_7d"
+    },
+    {
+      "id": "3998c20adbcc81b1b7abfabb452ae09a",
+      "name": "《美食》赤ピーマン",
+      "category": "🍴美食",
+      "city": "松島",
+      "detail": "營業時間:每日 10:30–18:00\n電話號碼:+81 22-353-3265\nGoogle評分:4.6★(全清單最高)\n備註:在地小吃/速食店",
+      "map": "https://maps.app.goo.gl/h2qBjK92ncCcoLvaA"
+    },
+    {
+      "id": "3998c20adbcc81bcbc94fe41c4e33368",
+      "name": "《早餐》Blue Leaf Cafe(10 點開,早午餐用)",
+      "category": "🥯早餐 ☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–20:00(一番町商店街,插座多、空間大)\n網站:http://blueleafcafe.jp/\n電話號碼:+81 22-216-3235",
+      "map": "https://maps.app.goo.gl/F1jNDG5Z28SUPzZr7"
+    },
+    {
+      "id": "3998c20adbcc81cb9d7ccb50b040fe42",
+      "name": "《早餐》KEYAKI COFFEE 卸町店(4.5★)",
+      "category": "🥯早餐 ☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "營業時間:週二~週日 08:00–17:00;週一休(若林區卸町1-3-1 2階,地下鐵東西線卸町站;Google 4.5★/550 則,清單最高分)\n網站:https://keyakicoffee.base.shop/\n電話號碼:+81 22-355-8036",
+      "map": "https://maps.app.goo.gl/6A4J7H3khrHfQGvY7"
+    },
+    {
+      "id": "3998c20adbcc81ce8993d11282ed53bb",
+      "name": "《點心》阿部蒲鉾店 松島寺町店",
+      "category": "🍰點心",
+      "city": "松島",
+      "detail": "營業時間:每日 09:00–18:00\n網站:https://www.abekama.co.jp/\n電話號碼:+81 22-353-4277\nGoogle評分:4.2★\n備註:名物「ひょうたん揚げ」現炸葫蘆魚板,邊走邊吃",
+      "map": "https://maps.app.goo.gl/CZSWTZJoix7wBvW9A"
+    },
+    {
+      "id": "3998c20adbcc81db8ae3dbf2d02e3472",
+      "name": "《美食》松島魚市場",
+      "category": "🍴美食",
+      "city": "松島",
+      "detail": "營業時間:平日 09:00–16:00/週六日 08:00–16:00\n網站:https://www.sakana-ichiba.co.jp/\n電話號碼:0120-502-318\nGoogle評分:3.7★\n備註:松島さかな市場,海鮮丼、焼がきハウス在此",
+      "map": "https://maps.app.goo.gl/aghWnG6PTzwPhCzr9"
+    },
+    {
+      "id": "39a8c20adbcc800889a3d1ac0fd3b3d8",
+      "name": "《美食》だし廊-DASHIRO-仙台南町通り本店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "11:00–21:00",
+      "map": "https://maps.app.goo.gl/z7TrSRGWBfULg63PA"
+    },
+    {
+      "id": "39a8c20adbcc802c9ceeea40c9bde97f",
+      "name": "《美食》地酒と旬味 東家",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "11:00–23:00",
+      "map": "https://maps.app.goo.gl/Dw7ZzyEaYzNAdW9z8"
+    },
+    {
+      "id": "39a8c20adbcc80369d8dda2fe4e84430",
+      "name": "《美食》つけ麺屋 しずく",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "• 11:00–15:00\n• 17:30–21:30",
+      "map": "https://maps.app.goo.gl/svo3SniyggfQzf6P6"
+    },
+    {
+      "id": "39a8c20adbcc8036bc35fdd60c1ba284",
+      "name": "《美食》元祖豚丼屋TONTON 仙台東口店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "11:00–22:30",
+      "map": "https://maps.app.goo.gl/TLzxBJW9t4BMVr968"
+    },
+    {
+      "id": "39a8c20adbcc80388882c08aef3c9840",
+      "name": "《美食》水原製麺",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "• 11:00–15:00\n• 17:00–21:00",
+      "map": "https://maps.app.goo.gl/bvjxRZcxUwhyCFv26"
+    },
+    {
+      "id": "39a8c20adbcc8043892ade9e5a5c478e",
+      "name": "《美食》大衆酒場 かーにばる 仙台国分町店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "17:00–00:00",
+      "map": "https://maps.app.goo.gl/aTusyaCDZaNprjd1A"
+    },
+    {
+      "id": "39a8c20adbcc8045ab68cc67a34e21e0",
+      "name": "《美食》近藤商店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "",
+      "map": "https://maps.app.goo.gl/roZJU4uxKRDJVa9x5"
+    },
+    {
+      "id": "39a8c20adbcc804683e6cb591f7b1135",
+      "name": "《美食》牡蠣と寿司 うみのおきて 仙台朝市総本店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "• 09:00–14:00\n• 17:00–00:00",
+      "map": "https://maps.app.goo.gl/vTTHs4cXzyrYRc5M8"
+    },
+    {
+      "id": "39a8c20adbcc806a86fcde086ffd6f4e",
+      "name": "《美食》VON (近宮城樂天棒球場)",
+      "category": "☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "12:00–21:00",
+      "map": "https://maps.app.goo.gl/Vzogn9G3ukgqzxGp9"
+    },
+    {
+      "id": "39a8c20adbcc8072841ecd7c35022d1e",
+      "name": "《美食》Louver",
+      "category": "☕咖啡廳 🥯早餐",
+      "city": "仙台市區",
+      "detail": "08:00–00:00",
+      "map": "https://maps.app.goo.gl/EcmEWdC75RaKLEuA8"
+    },
+    {
+      "id": "39a8c20adbcc8075ab6cd0045f1ff52a",
+      "name": "《美食》虎まる 朝市総本店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "• 09:30–14:30\n• 17:00–23:00",
+      "map": "https://maps.app.goo.gl/2rjnQfrLCBHhxF826"
+    },
+    {
+      "id": "39a8c20adbcc8092b083d2c596a2e170",
+      "name": "《美食》鮮魚の亀水",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "• 10:00–18:00",
+      "map": "https://maps.app.goo.gl/twcntBghhSq2H6vy5"
+    },
+    {
+      "id": "39a8c20adbcc80b2b04ed67b26c661b7",
+      "name": "《美食》Surpass Hotdogg",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "11:00–18:00",
+      "map": "https://maps.app.goo.gl/qKSXbnp2e8Z2wff16"
+    },
+    {
+      "id": "39a8c20adbcc80d191a7f58310ce963c",
+      "name": "《美食》ECHOES (大町西公園旁)",
+      "category": "☕咖啡廳 🥯早餐",
+      "city": "仙台市區",
+      "detail": "08:00–17:00",
+      "map": "https://maps.app.goo.gl/Y39be5ydoTMnbTXZ8"
+    },
+    {
+      "id": "39a8c20adbcc8100ade6f6ea970e4580",
+      "name": "《住宿》APA HOTEL TKP仙台駅北",
+      "category": "🏡住宿",
+      "city": "仙台市區",
+      "detail": "網站:https://www.apahotel.com/hotel/hokkaido-tohoku/miyagi/tkp-sendai-ekikita/\n電話號碼:022-742-3630\nGoogle評分:4.1★(1,202則)\n備註:仙台站北側;影片清單裡的住宿參考(本行程仙台段已訂其他住宿)",
+      "map": "https://maps.google.com/?cid=13723937957899446551"
+    },
+    {
+      "id": "39a8c20adbcc8105ae76c2b83dc8e257",
+      "name": "《神社》大崎八幡宮",
+      "category": "⛩️神社",
+      "city": "仙台市區",
+      "detail": "參拜時間:每日 09:00–17:00\n網站:http://www.oosaki-hachiman.or.jp/\n電話號碼:022-234-3606\nGoogle評分:4.3★(5,497則)\n備註:國寶社殿(伊達政宗創建),るーぷる仙台觀光巴士可達",
+      "map": "https://maps.google.com/?cid=5653800970240925595"
+    },
+    {
+      "id": "39a8c20adbcc8105aeb1dfa63de88662",
+      "name": "《景點》仙台海洋森林水族館",
+      "category": "📍景點",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 09:00–17:30\n網站:http://www.uminomori.jp/\n電話號碼:022-355-2222\nGoogle評分:4.2★(11,574則)\n備註:仙台うみの杜水族館;海豚海獅表演有名;中野栃生駅步行15分,往返松島方向可順路",
+      "map": "https://maps.google.com/?cid=5966534333034422372"
+    },
+    {
+      "id": "39a8c20adbcc810885f5dd12fe5d0845",
+      "name": "《購物》Animate 仙台",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://www.animate.co.jp/shop/sendai/\n電話號碼:022-264-0437\nGoogle評分:4.0★(1,468則)\n備註:安利美特仙台店,仙台駅前イービーンズ(EBeanS)7樓,動漫周邊",
+      "map": "https://maps.google.com/?cid=4012242997106612804"
+    },
+    {
+      "id": "39a8c20adbcc811dbb14d79fd2e94d6b",
+      "name": "《神社》榴岡天満宮",
+      "category": "⛩️神社",
+      "city": "仙台市區",
+      "detail": "開放時間:每日 09:00–16:00\n網站:http://tsutsujigaokatenmangu.jp/\n電話號碼:022-256-3878\nGoogle評分:4.3★(1,714則)\n備註:仙台站東側,學問之神菅原道真;御朱印有名",
+      "map": "https://maps.google.com/?cid=5768114386888132799"
+    },
+    {
+      "id": "39a8c20adbcc811f8acfd99986465248",
+      "name": "《神社》金蛇水神社",
+      "category": "⛩️神社",
+      "city": "仙台市區",
+      "detail": "參拜時間:每日 08:30–16:00\n網站:http://kanahebi.cdx.jp/\n電話號碼:0223-22-2672\nGoogle評分:4.4★(7,016則)\n備註:金運蛇神社,在岩沼市(仙台南方,電車+計程車或公車);SandoTerrace商店街可吃飯",
+      "map": "https://maps.google.com/?cid=8283650761842202359"
+    },
+    {
+      "id": "39a8c20adbcc811f91e5fecd6115b05a",
+      "name": "《美食》花笠だんご本舗",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:09:30–15:00/週三、週日休\n電話號碼:022-261-7803\nGoogle評分:4.5★(94則)\n備註:朝市旁老舖糰子店,售完打烊",
+      "map": "https://maps.google.com/?cid=4127538605163797289"
+    },
+    {
+      "id": "39a8c20adbcc812d831fef2ba5b0f95c",
+      "name": "《購物》永旺夢樂城 名取",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–21:00\n網站:https://natori.aeonmall.jp/\n電話號碼:022-381-1515\nGoogle評分:4.0★(8,623則)\n備註:イオンモール名取,在名取市、仙台機場Access線杜せきのした站旁;8/1去機場順路可逛",
+      "map": "https://maps.google.com/?cid=13381870156843174647"
+    },
+    {
+      "id": "39a8c20adbcc8136ac2cf3e9155a4633",
+      "name": "《美食》塩釜港 仙台店(壽司)",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 11:00–21:00(週六至22:00)\n網站:https://shiogamakou.studio.site/\n電話號碼:022-292-3131\nGoogle評分:3.6★(635則)\n備註:榴岡(仙台站東側)平價壽司店",
+      "map": "https://maps.google.com/?cid=17673772661243418584"
+    },
+    {
+      "id": "39a8c20adbcc813e983ef6fae0dcedc4",
+      "name": "《美食》浜伸 渡邊商店(はましん食堂)",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:週一~六 07:00–15:00/週日休\n網站:https://www.hamashin384.com/\n電話號碼:022-222-2048\nGoogle評分:4.5★(131則)\n備註:仙台朝市魚販直營食堂,07:00開門,海鮮丼早餐首選",
+      "map": "https://maps.google.com/?cid=16106659398959926836"
+    },
+    {
+      "id": "39a8c20adbcc814788a3fd78a3dddee1",
+      "name": "《美食》壹貳參橫丁",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:各店不一(多為傍晚起)\n網站:http://www.iroha-yokocho.jp/\n電話號碼:022-223-3151\nGoogle評分:4.3★(461則)\n備註:壱弐参(いろは)横丁,昭和風居酒屋小巷,晚上最有氣氛",
+      "map": "https://maps.google.com/?cid=10806153465646139549"
+    },
+    {
+      "id": "3998c20adbcc80b3b319e9852e21bc4c",
+      "name": "《早餐》いもせん (imosen)",
+      "category": "🥯早餐",
+      "city": "仙台市區",
+      "detail": "營業時間：週一 07:30–13:00；週二～週六 07:30–14:30；週日休\n網站：https://www.instagram.com/imosen1927/\n電話號碼：+81 22-223-1538",
+      "map": "https://maps.app.goo.gl/vghgFQcRMKTDDS2q8"
+    },
+    {
+      "id": "3998c20adbcc80f28c06df3fa6472ddc",
+      "name": "《早餐》ill（司康、咖啡）",
+      "category": "🥯早餐 ☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "營業時間：每日 08:00–18:00\n網站：https://www.instagram.com/ill_sendai\n地址：中央3-3-18 新庄ビル1階",
+      "map": "https://maps.app.goo.gl/Vf2gkqAbGg6CS4Uy6"
+    },
+    {
+      "id": "3998c20adbcc80fea8e5c8eadc6373ef",
+      "name": "《早餐》おむすび東雲（飯糰）",
+      "category": "🥯早餐",
+      "city": "仙台市區",
+      "detail": "營業時間：週五、六 07:30–14:00、15:30–22:00；週日 07:30–14:00、15:30–21:00；⚠️週一～週四休（行程中只有 8/1 六吃得到）\n網站：https://www.instagram.com/shinonome_sendai/\n電話號碼：+81 22-200-1080",
+      "map": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%82%80%E3%81%99%E3%81%B3%E6%9D%B1%E9%9B%B2+%E4%BB%99%E5%8F%B0"
+    },
+    {
+      "id": "39a8c20adbcc8154ae81fae07a7c7826",
+      "name": "《博物館》松島伊達政宗歷史館",
+      "category": "🏛️博物館 📍景點",
+      "city": "松島",
+      "detail": "開館時間:每日 09:00–17:00\n網站:http://www.date-masamune.jp/\n電話號碼:022-354-4131\nGoogle評分:3.9★(1,090則)\n備註:みちのく伊達政宗歷史館,蠟像重現政宗生平;館內竹雀庵(KKday烤牡蠣兌換處)",
+      "map": "https://maps.google.com/?cid=15614729257223533046"
+    },
+    {
+      "id": "39a8c20adbcc815fa701d1adbe704db3",
+      "name": "《美食》かき小屋 Rocco",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 15:00–24:00\n網站:https://www.instagram.com/kakigoyarocco\n電話號碼:022-722-6531\nGoogle評分:4.2★(299則)\n備註:一番町的牡蠣小屋居酒屋;夏季當令是岩牡蠣",
+      "map": "https://maps.google.com/?cid=14619231284117642225"
+    },
+    {
+      "id": "39a8c20adbcc8161a1e1e3a014366d54",
+      "name": "《博物館》仙台麵包超人兒童博物館",
+      "category": "🏛️博物館 📍景點",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–17:00\n網站:https://www.sendai-anpanman.jp/\n電話號碼:022-298-8855\nGoogle評分:4.2★(4,201則)\n備註:仙台站東口步行9分;1F購物商場免門票,2F博物館收費",
+      "map": "https://maps.google.com/?cid=11738590975558493960"
+    },
+    {
+      "id": "39a8c20adbcc818ba8bbe424d859a9aa",
+      "name": "《博物館》仙台萬華鏡美術館",
+      "category": "🏛️博物館 📍景點",
+      "city": "仙台市區",
+      "detail": "開館時間:每日 09:30–17:00\n網站:https://sendaikaleidoscope.com/\n電話號碼:022-304-8080\nGoogle評分:4.0★(831則)\n備註:在太白區茂庭(秋保溫泉方向),可體驗萬華鏡DIY",
+      "map": "https://maps.google.com/?cid=5272539317660961685"
+    },
+    {
+      "id": "39a8c20adbcc818bb23dd5553f57054b",
+      "name": "《購物》伊達のこみち",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–21:00\nGoogle評分:4.0★(32則)\n備註:JR仙台駅內的伴手禮商店街,買土產順路",
+      "map": "https://maps.google.com/?cid=10136934674230346562"
+    },
+    {
+      "id": "39a8c20adbcc81ac8655ec4559c54fcc",
+      "name": "《美食》Sendai Kuroku(拉麵)",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:平日 11:30–15:00/17:30–23:00,週六日 11:30–22:00\n網站:http://gbcd-inc.com/\n電話號碼:022-298-7969\nGoogle評分:3.6★(1,041則)\n備註:榴岡的拉麵店",
+      "map": "https://maps.google.com/?cid=9570971618624046980"
+    },
+    {
+      "id": "39a8c20adbcc81b09e7bf37d717dc085",
+      "name": "《博物館》仙台市電保存館",
+      "category": "🏛️博物館 📍景點",
+      "city": "仙台市區",
+      "detail": "開館時間:10:00–16:00/週一休(遇祝日延翌日)、祝日翌日休;冬季(12/1–3/19)僅週末祝日開\n網站:https://www.kotsu.city.sendai.jp/shiden/\n入館:免費\n備註:地下鐵南北線富沢駅步行15分,展示老仙台市電車廂;你們的日期(7/29–7/31)都有開",
+      "map": "https://maps.google.com/?cid=2112642745164739108"
+    },
+    {
+      "id": "39a8c20adbcc81bf8d30da5786e8836d",
+      "name": "《點心》BOUL'ANGE 仙台",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:08:00–20:00(週五六至21:00)\n網站:https://www.flavorworks.co.jp/boulange\n電話號碼:022-355-2573\nGoogle評分:4.2★(186則)\n備註:エスパル仙台Ⅱ內的麵包店,可頌有名,08:00開門可當早餐",
+      "map": "https://maps.google.com/?cid=16820792817777226136"
+    },
+    {
+      "id": "39a8c20adbcc81ceb315f5fa0f822b91",
+      "name": "《神社》藤崎えびす神社",
+      "category": "⛩️神社",
+      "city": "仙台市區",
+      "detail": "開放時間:每日 09:00–17:00\nGoogle評分:4.0★(122則)\n備註:一番町商店街內的小神社(藤崎百貨相關),逛街順路參拜",
+      "map": "https://maps.google.com/?cid=14310309226763866540"
+    },
+    {
+      "id": "39a8c20adbcc81e98b99f6dab778df52",
+      "name": "《點心》Chateraise JR仙台駅店",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–21:00\n網站:https://www.chateraise.co.jp/ec/shop/o602221/\n電話號碼:022-738-7123\nGoogle評分:3.4★(47則)\n備註:平價甜點連鎖,仙台駅2F中央改札口外",
+      "map": "https://maps.google.com/?cid=12234872516510844517"
+    },
+    {
+      "id": "39a8c20adbcc81ea9e81ec853c29bba2",
+      "name": "《點心》ずんだ茶寮 仙台機場店",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 08:00–19:00\n網站:http://zundasaryo.com/\n電話號碼:022-381-6031\nGoogle評分:4.4★(179則)\n備註:在仙台機場SHOPPING AVENUE;ずんだシェイク必喝——8/1搭機去名古屋前最後機會;仙台駅3F也有分店(10:00–21:00)",
+      "map": "https://maps.google.com/?cid=15833297872922396387"
+    },
+    {
+      "id": "39a8c20adbcc81f687e9c2c0df6c3bdd",
+      "name": "《景點》SS30 展望台",
+      "category": "📍景點",
+      "city": "仙台市區",
+      "detail": "開放時間:每日 07:00–23:00\n網站:http://www.ss30.jp/outline.html\n電話號碼:022-267-8810\nGoogle評分:4.4★(188則)\n備註:住友生命仙台中央大樓30F免費展望台,看仙台夜景首選",
+      "map": "https://maps.google.com/?cid=4711839150593102265"
+    },
+    {
+      "id": "39a8c20adbcc81fe956af625bde9dfad",
+      "name": "《點心》Maison Cœlacanthe",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:平日 11:00–19:00/週六日 10:00–19:00\n網站:https://www.instagram.com/maison_coelacanthe\nGoogle評分:4.2★(714則)\n備註:一番町的法式甜點店,可麗露と法式甜點有名",
+      "map": "https://maps.google.com/?cid=16649039479679279214"
+    },
+    {
+      "id": "39a8c20adbcc81fea379e2532cda67e0",
+      "name": "《點心》齋藤惣菜店(可樂餅)",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:週一~六 10:00–17:00/週日休\n網站:https://sendaiasaichi.com/shop/view/13\n電話號碼:022-267-1569\nGoogle評分:4.2★(373則)\n備註:仙台朝市內現炸可樂餅,銅板價邊走邊吃",
+      "map": "https://maps.google.com/?cid=1836708153297815207"
+    },
+    {
+      "id": "39b8c20adbcc8049b767e8d17deff119",
+      "name": "《點心》ずんだ茶寮 仙台駅ずんだ小径店",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "10:00–21:00",
+      "map": "https://maps.app.goo.gl/DF921j5BmBKmPXTP9"
+    },
+    {
+      "id": "39b8c20adbcc8128b2e0f55e7e262f98",
+      "name": "《美食》仔虎 S-PAL仙台店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:平日 11:00–15:00、17:00–22:00/週六日 11:00–22:00\n網站:https://team-toranomon.com/shop-spal/\n電話號碼:022-385-7378\nGoogle評分:4.6★(498則)\n備註:仙台和牛燒肉名店 KOTORA,S-PAL 東館 3F,人氣高建議訂位",
+      "map": "https://maps.google.com/?cid=9313083161436656914"
+    },
+    {
+      "id": "39b8c20adbcc8129a4a1fa2ec8a5d994",
+      "name": "《美食》創作料理 真都 -マツ-",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:16:00–01:00(週日公休)\n網站:https://www.hotpepper.jp/strJ003917113/\n電話號碼:022-398-3692\nGoogle評分:4.5★(126則)\n備註:一番町的創作料理居酒屋,價位 ¥5,000–9,000,建議訂位",
+      "map": "https://maps.google.com/?cid=7790872702241903223"
+    },
+    {
+      "id": "39b8c20adbcc812ba5dcc2714bb34862",
+      "name": "《美食》うな貴(國分町鰻魚)",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 11:00–14:00、17:00–19:30\n網站:https://unashow.co.jp/\n電話號碼:022-265-8650\nGoogle評分:4.3★(548則)\n備註:國分町老字號鰻魚專門店,價位 ¥5,000–10,000,晚上只到 19:30",
+      "map": "https://maps.google.com/?cid=294706915736581843"
+    },
+    {
+      "id": "39b8c20adbcc812d9514ebc5dd4a603b",
+      "name": "《點心》松島蒲鉾本舗 本店",
+      "category": "🍰點心",
+      "city": "松島",
+      "detail": "營業時間:每日 09:30–17:00\n網站:https://www.matsukama.jp/\n電話號碼:022-354-4016\nGoogle評分:4.1★(831則)\n備註:魚板伴手禮老店,有手烤竹輪體驗(和阿部蒲鉾是不同家)",
+      "map": "https://maps.google.com/?cid=16683125581316938072"
+    },
+    {
+      "id": "39b8c20adbcc813aa72ff991e6e3d88b",
+      "name": "《點心》Suzuya(一番町甜品)",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 12:00–19:00\n網站:https://www.instagram.com/suzuya_enjiandco/\n電話號碼:022-748-5877\nGoogle評分:3.7★(112則)\n備註:一番町商店街的甜品店,中午才開",
+      "map": "https://maps.google.com/?cid=15793985717250072849"
+    },
+    {
+      "id": "39b8c20adbcc814ab8d3db2aa35311ef",
+      "name": "《點心》ずんだ茶寮 S-PAL仙台店",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:⚠️目前暫時關閉(CLOSED_TEMPORARILY)\n網站:http://www.sanzen.co.jp/\n電話號碼:022-715-0251\nGoogle評分:4.3★(174則)\n備註:出發前再確認是否重開;毛豆麻糬可改去機場店(已有卡)或ずんだ小径分店",
+      "map": "https://maps.google.com/?cid=12653728991289575108"
+    },
+    {
+      "id": "39b8c20adbcc8150adb8f093bf5c2306",
+      "name": "《美食》鰻の成瀬 仙台一番町店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 11:00–14:00、17:00–20:00\n網站:https://www.unagi-naruse.com/\n電話號碼:050-5488-2802\nGoogle評分:4.3★(242則)\n備註:平價鰻魚飯連鎖,一番町 B1",
+      "map": "https://maps.google.com/?cid=16310651180533485502"
+    },
+    {
+      "id": "39b8c20adbcc815ca50cc91a4fed1312",
+      "name": "《美食》伊達の囲炉裏焼き 蔵の庄 本店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 16:00–00:00\n網站:http://kuranosho.jp/\n電話號碼:022-268-2488\nGoogle評分:4.1★(1,322則)\n備註:圍爐裏炭火燒居酒屋,名掛丁 AKビル 4F,晚餐選項",
+      "map": "https://maps.google.com/?cid=7329669226615079668"
+    },
+    {
+      "id": "39b8c20adbcc8163aea4c97e3ba5d881",
+      "name": "《點心》RINGO 仙台駅店",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–21:00\n網站:https://ringo-applepie.com/shop/sendai-station/\n電話號碼:022-398-6099\nGoogle評分:4.4★(181則)\n備註:現烤客製化蘋果派,JR仙台駅構內 2F",
+      "map": "https://maps.google.com/?cid=5869181734216450702"
+    },
+    {
+      "id": "39b8c20adbcc81869a17d9b8ae5b2e76",
+      "name": "《美食》らーめん堂仙台っ子 仙台駅前店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:週日–四 11:00–01:00/週五六 11:00–02:00\n網站:https://ramendo-sendaikko.com/sendaiekimae/\n電話號碼:022-221-7786\nGoogle評分:3.9★(1,890則)\n備註:仙台在地連鎖豚骨醬油拉麵,開到深夜的宵夜選項",
+      "map": "https://maps.google.com/?cid=9107024026907596088"
+    },
+    {
+      "id": "39b8c20adbcc81b3a228e6387895a691",
+      "name": "《美食》えびそば えび助(蝦味拉麵)",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:週一–六 11:00–14:30、18:00–22:00/週日 11:00–14:30、17:00–20:00\n網站:https://pal-food.jp/\n電話號碼:022-748-4551\nGoogle評分:4.1★(934則)\n備註:國分町的蝦湯頭拉麵名店,注意中午只到 14:30",
+      "map": "https://maps.google.com/?cid=5283820864562398967"
+    },
+    {
+      "id": "39b8c20adbcc81b695ccf097810f2087",
+      "name": "《美食》焼がきハウス(松島烤牡蠣)",
+      "category": "🍴美食",
+      "city": "松島",
+      "detail": "營業時間:平日 10:00–15:00/週六日 09:00–15:00\n網站:http://www.sakana-ichiba.co.jp/eat/house/\n電話號碼:022-353-2318\nGoogle評分:3.9★(1,254則)\n備註:松島魚市場旁的烤牡蠣小屋,牡蠣吃到飽有名",
+      "map": "https://maps.google.com/?cid=17483681891920629796"
+    },
+    {
+      "id": "39b8c20adbcc81c280d9f992daefc4a0",
+      "name": "《美食》漁師の海鮮丼",
+      "category": "🍴美食",
+      "city": "松島",
+      "detail": "營業時間:11:00–15:00(週四、週五公休)\n網站:https://www.instagram.com/matusima_ryousinokaisedon\n電話號碼:022-354-5260\nGoogle評分:4.4★(829則)\n備註:⚠️只開到 15:00 且週四五休,行程排松島當天注意",
+      "map": "https://maps.google.com/?cid=3495304063340860191"
+    },
+    {
+      "id": "39b8c20adbcc81dc84caddf46579bf17",
+      "name": "《點心》Beard Papa 仙台駅店",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–21:00\n網站:https://www.beardpapa.jp/\n電話號碼:022-726-1132\nGoogle評分:4.0★(94則)\n備註:現烤泡芙,JR仙台駅構內 2F",
+      "map": "https://maps.google.com/?cid=15004537325982197750"
+    },
+    {
+      "id": "39b8c20adbcc81e1926ed2024e502d89",
+      "name": "《美食》TULLY'S COFFEE 仙台中央通店",
+      "category": "☕咖啡廳",
+      "city": "仙台市區",
+      "detail": "營業時間:週一–四 07:30–22:00/週五 07:30–23:00/週六 08:00–23:00/週日 09:00–21:00\n網站:https://shop.tullys.co.jp/detail/1000096\n電話號碼:022-716-0210\nGoogle評分:3.7★(586則)\n備註:中央通商店街,早上 07:30 就開,可當備用早餐咖啡",
+      "map": "https://maps.google.com/?cid=14408529057099522890"
+    },
+    {
+      "id": "39b8c20adbcc81ef82d7f204951fb11d",
+      "name": "《美食》海鮮みさき港 クリスロード店",
+      "category": "🍴美食",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 11:00–22:00\n網站:https://www.kyotaru.co.jp/shopsearch/shop/18201.html\n電話號碼:022-796-6560\nGoogle評分:3.5★(641則)\n備註:クリスロード商店街的平價壽司海鮮,評分偏低(3.5★)",
+      "map": "https://maps.google.com/?cid=4791365580458195620"
+    },
+    {
+      "id": "39b8c20adbcc81f489bcd5f0010509b9",
+      "name": "《點心》パンセ 松島店",
+      "category": "🍰點心",
+      "city": "松島",
+      "detail": "營業時間:每日 10:00–17:00\n網站:https://www.i-pensee.jp/\n電話號碼:022-353-2844\nGoogle評分:4.2★(487則)\n備註:牡蠣咖哩麵包名店,在離宮 海の駅內(和クロワッサン屋サクサク是不同家)",
+      "map": "https://maps.google.com/?cid=9684198476000603705"
+    },
+    {
+      "id": "39b8c20adbcc81fba300dae6b6afde7c",
+      "name": "《點心》あんこ屋 站前店",
+      "category": "🍰點心",
+      "city": "仙台市區",
+      "detail": "營業時間:10:00–19:00(週日公休)\n電話號碼:022-265-8123\nGoogle評分:4.4★(530則)\n備註:名掛丁センター街的日式豆沙甜點店(在仙台駅前,不是松島)",
+      "map": "https://maps.google.com/?cid=2458489767283340383"
+    },
+    {
+      "id": "39c8c20adbcc81038589e5f090fdd90a",
+      "name": "《美食》めしや酒薬坐 栄本店",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:週日–四 17:00–00:00/週五六 17:00–03:00\n網站:https://meshiya.net/\n電話號碼:052-253-9766\nGoogle評分:4.3★(146則)",
+      "map": "https://maps.google.com/?cid=12011490615313442273"
+    },
+    {
+      "id": "39c8c20adbcc8104a67cc9ab0536730a",
+      "name": "《購物》まんだらけ 名古屋店(二手動漫特攝玩具)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 12:00–20:00\n網站:https://www.mandarake.co.jp/dir/ngy/\n電話號碼:052-261-0700\nGoogle評分:3.9★(748則)\n備註:二手動漫/特攝玩具老字號(大須3丁目)",
+      "map": "https://maps.google.com/?cid=3508404715583503620"
+    },
+    {
+      "id": "39c8c20adbcc81059970d4ca54e1674b",
+      "name": "《購物》ユザワヤ 仙台店(藤崎6F,拼布)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–19:00\n電話號碼:022-263-4147\nGoogle評分:3.3★(12則)\n備註:日本最大手藝材料連鎖,布料/拼布材料;一番町藤崎百貨 6F,與 7/30 家人動線重疊",
+      "map": "https://maps.google.com/?cid=4967536931003733158"
+    },
+    {
+      "id": "39c8c20adbcc8107b0efd8f1d46481a6",
+      "name": "《點心》HARBS 栄本店",
+      "category": "🍰點心 ☕咖啡廳",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–21:00\n網站:http://www.harbs.co.jp/harbs/\n電話號碼:052-962-9810\nGoogle評分:4.2★(1,278則)\n備註:水果千層蛋糕發祥本店(錦3)",
+      "map": "https://maps.google.com/?cid=16807469498267869931"
+    },
+    {
+      "id": "39c8c20adbcc810c9f4cc896c23e4ba3",
+      "name": "《博物館》有松・鳴海絞会館",
+      "category": "🏛️博物館",
+      "city": "名古屋",
+      "detail": "開館時間:每日 09:30–17:00\n網站:http://www.shibori-kaikan.com/\n電話號碼:052-621-0111\nGoogle評分:4.0★(805則)\n備註:有松絞染工藝;名鉄有松站,老街散步順遊",
+      "map": "https://maps.google.com/?cid=16458561287267512784"
+    },
+    {
+      "id": "39c8c20adbcc810cab57e9618f47ffd3",
+      "name": "《購物》駿河屋 フォレオ東仙台店",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 09:00–22:00\n網站:https://www.suruga-ya.jp/feature/realstore/higashisendai/index.html\n電話號碼:022-290-5038\nGoogle評分:3.4★(120則)\n備註:二手玩具/遊戲/模型;フォレオ商場內,JR東北本線東仙台駅一帶(仙台駅兩站),開到22:00",
+      "map": "https://maps.google.com/?cid=6498914847403763624"
+    },
+    {
+      "id": "39c8c20adbcc810cbab1fccaed068cfe",
+      "name": "《購物》NEEDLES AND PINS(布料選物)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:週四–二 10:30–19:00/週三休\n網站:http://needles-a-pins.com/\n電話號碼:022-302-6509\nGoogle評分:4.6★(16則)\n備註:大町的質感布料選物店;⚠️週三休(7/29不行,7/30可)",
+      "map": "https://maps.google.com/?cid=4334723970986010075"
+    },
+    {
+      "id": "39c8c20adbcc8111b912e66cf4f5fa5c",
+      "name": "《購物》UNIQLO 仙台AER店",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://map.uniqlo.com/jp/ja/detail/101203\n電話號碼:050-3096-5725\nGoogle評分:3.9★(1,204則)\n備註:AER內(與展望台、丸善同棟);Yodobashi 5F 另有一家(開到21:00)",
+      "map": "https://maps.google.com/?cid=18202249247676459742"
+    },
+    {
+      "id": "39c8c20adbcc8119afdad3c1a7c302ce",
+      "name": "《美食》驛釜きしめん 中央通店",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:每日 07:00–22:00\n網站:https://www.jrt-food-service.co.jp/store/details01.html\n電話號碼:052-569-0282\nGoogle評分:3.8★(1,572則)\n備註:名古屋駅站內,07:00 開早餐也可",
+      "map": "https://maps.google.com/?cid=1706499442341324008"
+    },
+    {
+      "id": "39c8c20adbcc811b9639d4b8e0532a99",
+      "name": "《購物》万代 仙台南店(MANDAI 中古趣味百貨)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–00:00\n網站:https://shop.mandai-s.jp/stores/5\n電話號碼:022-381-8875\nGoogle評分:3.2★(1,206則)\n備註:大型中古趣味百貨(玩具/電玩/卡牌);太白區中田,JR南仙台駅一帶郊區型,開到半夜;泉區另有一家;一番町的「買取専門店万代」只收購不零售",
+      "map": "https://maps.google.com/?cid=19293689393897409"
+    },
+    {
+      "id": "39c8c20adbcc811fa3f7c269c268e222",
+      "name": "《美食》タイチ食堂(漢堡排)",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–23:00\n網站:https://www.shoan.jp/shop/shop-1826/\n電話號碼:052-228-4039\nGoogle評分:4.1★(372則)\n備註:マルエイガレリア 3F",
+      "map": "https://maps.google.com/?cid=11890474956315388356"
+    },
+    {
+      "id": "39c8c20adbcc8122a3dbf91f63ae63d5",
+      "name": "《博物館》愛知県美術館",
+      "category": "🏛️博物館",
+      "city": "名古屋",
+      "detail": "開館時間:週二–四、六日 10:00–17:00/週五 10:00–20:00/週一休\n網站:https://apmoa.museum/\n電話號碼:052-971-5511\nGoogle評分:4.1★(2,725則)\n備註:栄・愛知芸術文化センター 10F;⚠️8/3(一)休",
+      "map": "https://maps.google.com/?cid=639945592328695428"
+    },
+    {
+      "id": "39c8c20adbcc8122b466d252dca004fe",
+      "name": "《美食》讃岐うどん 寿 栄本店",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:週一–四 11:00–19:00/週五六 11:00–15:00、22:30–06:00/週日休\n網站:https://www.instagram.com/kotobuki_sanukiudon/\n電話號碼:052-212-9779\nGoogle評分:3.9★(173則)\n備註:⚠️8/2(日)休",
+      "map": "https://maps.google.com/?cid=2241841592799572543"
+    },
+    {
+      "id": "39c8c20adbcc81299e71f08c74d78d0b",
+      "name": "《美食》JAZZ & COFFEE YURI",
+      "category": "☕咖啡廳",
+      "city": "名古屋",
+      "detail": "營業時間:週二–四、日 12:00–22:00/週五六 12:00–23:00/週一休\n電話號碼:052-951-7800\nGoogle評分:4.4★(611則)\n備註:爵士名曲喫茶(東桜/高岳一帶);⚠️8/3(一)休",
+      "map": "https://maps.google.com/?cid=3372839219472834457"
+    },
+    {
+      "id": "39c8c20adbcc812e9902e4b81ed9605e",
+      "name": "《美食》蟹銀 名駅店",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:週一 16:00–23:30/週二–五 16:00–23:00/週六日 12:00–23:00\n網站:https://torisakananagoya.owst.jp/\n電話號碼:052-433-6034\nGoogle評分:4.7★(1,318則)\n備註:螃蟹料理居酒屋(名駅椿町 11CUBES 7F);積極候選——最順時機為 8/3 あおなみ線回程順路(與島正二擇一);⚠️價格較高,需先與家人討論",
+      "map": "https://maps.google.com/?cid=17876828347921807822"
+    },
+    {
+      "id": "39c8c20adbcc8130b13cd40265f89cae",
+      "name": "《購物》HARDOFF+HobbyOff 仙台荒井店",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–20:00\n網站:http://www.hardoff.co.jp/shop/tohoku/miyagi/hardoff/201390/\n電話號碼:022-794-9923\nGoogle評分:3.6★(1,402則)\n備註:同址併設 HobbyOff(二手玩具/模型);地下鐵東西線荒井駅徒步圈,市區可達的最大店",
+      "map": "https://maps.google.com/?cid=15639260786628078179"
+    },
+    {
+      "id": "39c8c20adbcc8133ae24dfcd249a5006",
+      "name": "《美食》KARASU",
+      "category": "☕咖啡廳",
+      "city": "名古屋",
+      "detail": "營業時間:週一–五 08:00–17:30/週日 09:00–16:30/週六休\n網站:https://www.instagram.com/karas_u1988/\n電話號碼:052-231-1563\nGoogle評分:4.0★(637則)\n備註:栄1丁目(納屋橋側);⚠️8/1(六)休",
+      "map": "https://maps.google.com/?cid=4334953159747330716"
+    },
+    {
+      "id": "39c8c20adbcc81348684c39559f18dc2",
+      "name": "《美食》飛泉(北陸的脂,壽司)",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:週二–六 12:00–14:00、17:30–23:30/週日 12:00–14:00、17:30–21:00/週一僅晚間\n網站:https://s.tabelog.com/aichi/A2301/A230103/23084110/\n電話號碼:052-684-9877\nGoogle評分:4.8★(68則)\n備註:北陸直送漁獲壽司(錦3丁目),本批清單最高分,座位少建議訂位",
+      "map": "https://maps.google.com/?cid=7135435170375690222"
+    },
+    {
+      "id": "39c8c20adbcc8134ab59f36af3368e98",
+      "name": "《景點》東山動植物園",
+      "category": "📍景點",
+      "city": "名古屋",
+      "detail": "開園時間:週二–日 09:00–16:30/週一休\n網站:http://www.higashiyama.city.nagoya.jp/\n電話號碼:052-782-2111\nGoogle評分:4.4★(8,994則)\n備註:⚠️8/3(一)休;盛夏戶外多,建議早上去",
+      "map": "https://maps.google.com/?cid=8072374090636924269"
+    },
+    {
+      "id": "39c8c20adbcc8136afa7ce7aaeeefd3d",
+      "name": "《美食》肉ト魚大衆酒場ひとめぼれ 栄店",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:平日 17:00–00:00/週六日 12:00–00:00\n網站:https://akr4210666872.owst.jp/\n電話號碼:080-9278-1570\nGoogle評分:4.7★(7,519則)\n備註:肉與海鮮大衆酒場;⚠️評論多提餐點雷同與店內菸味,已排除於家族晚餐選項",
+      "map": "https://maps.google.com/?cid=16418157760920388948"
+    },
+    {
+      "id": "39c8c20adbcc813baf51e983bba82aaf",
+      "name": "《購物》Miffy Style 名古屋PARCO(米飛兔)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://www.kiddyland.co.jp/shoplist/miffystyle/\n電話號碼:052-684-7870\nGoogle評分:4.9★(8則)\n備註:米飛兔專賣(名古屋PARCO內 Kiddy Land);名駅GATE TOWER另有一家(3.9★/73則)",
+      "map": "https://maps.google.com/?cid=250980772700141228"
+    },
+    {
+      "id": "39c8c20adbcc813bbebaf3066eb20906",
+      "name": "《美食》丸小(本格肉料理)",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:週二–六 11:30–14:00、17:00–22:00/週日、一休\n網站:https://www.h-maruko.co.jp/\n電話號碼:052-931-4015\nGoogle評分:4.2★(376則)\n備註:老舖肉料理(東桜);原排定8/4全家會合晚餐19:00,已改去Lamian(不再去丸小),保留作候補",
+      "map": "https://maps.google.com/?cid=6796354916431149551"
+    },
+    {
+      "id": "39c8c20adbcc813ca3cad0156fb33a69",
+      "name": "《點心》KANNON COFFEE 大須店(咖啡·餅乾拿鐵)",
+      "category": "☕咖啡廳 🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–19:00\n網站:http://www.kannoncoffee.com/\n電話號碼:052-201-2588\nGoogle評分:4.2★(553則)\n備註:大須観音旁咖啡站,餅乾拿鐵有名",
+      "map": "https://maps.google.com/?cid=4397702067478089720"
+    },
+    {
+      "id": "39c8c20adbcc813ca96ccf70eff96caa",
+      "name": "《景點》便便博物館(UNKO MUSEUM)",
+      "category": "📍景點",
+      "city": "名古屋",
+      "detail": "營業時間:平日 10:00–20:00/週六日 10:00–21:00\n網站:https://unkomuseum.com/nagoya/\nGoogle評分:3.4★(216則)\n備註:原排定8/4傍晚(水族館後順路),因8/4行程改為大阪一日遊,此案已擱置,保留作候補;ららぽーと名古屋みなとアクルス3F,名港線東海通站回程順路",
+      "map": "https://maps.google.com/?cid=997489502041731641"
+    },
+    {
+      "id": "39c8c20adbcc813da8dcdfd074e4beff",
+      "name": "《購物》唐吉訶德 栄本店(24小時)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:24 小時營業\n電話號碼:0570-060-211\nGoogle評分:3.7★(6,338則)\n備註:錦3丁目;零食/飲料/雜貨/藥妝,多晚都能補貨",
+      "map": "https://maps.google.com/?cid=9054236104770801935"
+    },
+    {
+      "id": "39c8c20adbcc81408035e671d4b304b6",
+      "name": "《購物》Tower Records 仙台PARCO店",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://tower.jp/store/tohoku/SendaiParco\n電話號碼:022-264-9462\nGoogle評分:3.9★(899則)\n備註:新品唱片/黑膠(仙台PARCO 8F)",
+      "map": "https://maps.google.com/?cid=12623450126670183618"
+    },
+    {
+      "id": "39c8c20adbcc814091c3f0ba387248de",
+      "name": "《美食》Coffee House Kako 花車本店",
+      "category": "☕咖啡廳 🥯早餐",
+      "city": "名古屋",
+      "detail": "營業時間:每日 07:00–16:30\n網站:https://www.instagram.com/kako_coffee_honten/\n電話號碼:052-586-0239\nGoogle評分:3.9★(1,438則)\n備註:小倉トースト名店,07:00 開適合早餐(名駅5丁目)",
+      "map": "https://maps.google.com/?cid=14580202745862504952"
+    },
+    {
+      "id": "39c8c20adbcc81409d28d8094ed1185e",
+      "name": "《成城石井 名古屋LACHIC店》",
+      "category": "🍎超市",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–21:00\n電話號碼:052-269-5127\nGoogle評分:3.6★(239則)\n備註:ラシック B1F,栄核心,晚餐後採購首選(開到21:00)",
+      "map": "https://maps.google.com/?cid=10619624160201640439"
+    },
+    {
+      "id": "39c8c20adbcc8140a083c25eefd73428",
+      "name": "《點心》Uni Donuts(栄)",
+      "category": "🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:週三–日 12:00–19:00/週一、二休\n網站:https://unidonuts.jp/\n電話號碼:050-1722-6065\nGoogle評分:3.6★(43則)\n備註:8/3(一)、8/4(二)休",
+      "map": "https://maps.google.com/?cid=13604779080644954161"
+    },
+    {
+      "id": "39c8c20adbcc8142a6e4cc129b2f8aa6",
+      "name": "《點心》アット ドーナッツ(大須)",
+      "category": "🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:平日 11:15–19:00/週六 11:30–19:00/週日 11:30–18:00\n網站:https://instagram.com/at_donut\nGoogle評分:3.9★(167則)",
+      "map": "https://maps.google.com/?cid=4444000577354618111"
+    },
+    {
+      "id": "39c8c20adbcc8145b13ffecc7bb6cb11",
+      "name": "《明治屋 栄大津通店(松坂屋B1)》",
+      "category": "🍎超市",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–20:00\n電話號碼:052-264-3851\nGoogle評分:3.8★(35則)\n備註:老牌高級超市(松坂屋名古屋店 B1),進口食材/伴手禮也好買",
+      "map": "https://maps.google.com/?cid=12049302844325069239"
+    },
+    {
+      "id": "39c8c20adbcc8148bcc0f227e4c0ca7e",
+      "name": "《購物》Rilakkuma Store 仙台(S-PAL 3F)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:平日 10:00–20:00/週六日 10:00–21:00\n網站:http://www.san-x.co.jp/blog/store/\n電話號碼:022-714-8015\nGoogle評分:4.1★(78則)\n備註:S-PAL 3F 角色商品區;仙台無 Miffy 專門店,米飛兔留待名古屋PARCO買",
+      "map": "https://maps.google.com/?cid=15116196358768072435"
+    },
+    {
+      "id": "39c8c20adbcc8149afb5d326e030e5f5",
+      "name": "《美食》二之丸茶亭(名古屋城內)",
+      "category": "☕咖啡廳",
+      "city": "名古屋",
+      "detail": "營業時間:每日 09:00–16:30\n網站:https://www.nagoya-info.jp/gourmet/detail/61/\nGoogle評分:4.0★(197則)\n備註:⚠️在名古屋城二之丸庭園內,需買名古屋城門票才進得去(你們去過名古屋城)",
+      "map": "https://maps.google.com/?cid=1994940352383713022"
+    },
+    {
+      "id": "39c8c20adbcc81659227ed199f36a0a5",
+      "name": "《購物》東北スタンダードマーケット(文創)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 11:00–19:00\n網站:https://kaneiri.co.jp/business/shoplist/\n電話號碼:022-797-8852\nGoogle評分:4.2★(50則)\n備註:東北工藝文創選物店(仙台PARCO本館 B1)",
+      "map": "https://maps.google.com/?cid=16418428810135416824"
+    },
+    {
+      "id": "39c8c20adbcc816eacd3cc505edff9fd",
+      "name": "《美食》お台所ふらり 栄スカイル店",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–21:00\n網站:http://www.primeservice.co.jp/daidokoro/access.html\n電話號碼:052-249-8301\nGoogle評分:3.9★(678則)\n備註:家庭料理定食(スカイル 9F)",
+      "map": "https://maps.google.com/?cid=6995839663850549839"
+    },
+    {
+      "id": "39c8c20adbcc81769590cd95f3f2bdcd",
+      "name": "《點心》Kurin 大須店(現絞蒙布朗)",
+      "category": "🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:週五–三 11:00–18:30/週四休\n網站:https://kurin.gensg.jp/\n電話號碼:052-304-8103\nGoogle評分:4.0★(526則)\n備註:現絞蒙布朗專門店",
+      "map": "https://maps.google.com/?cid=1263941525379990728"
+    },
+    {
+      "id": "39c8c20adbcc8180a2d6f0e584f8177c",
+      "name": "《美食》めしや浮世ばなれ",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:每日 16:00–00:00\n網站:https://www.instagram.com/meshiya_ukiyobanare/\n電話號碼:080-6269-5304\nGoogle評分:4.1★(252則)\n備註:栄3-11-18(與焼き鳥マル。同棟)",
+      "map": "https://maps.google.com/?cid=5733183362685899464"
+    },
+    {
+      "id": "39c8c20adbcc8180a5d8e9615cf10333",
+      "name": "《美食》風来坊 栄店",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:週二–四、日 17:00–23:00/週五六 17:00–00:00/週一休\n網站:https://furaibo.jp/sakae\n電話號碼:052-241-8016\nGoogle評分:3.9★(1,028則)\n備註:手羽先元祖(甜辣系);候補池——手羽先改由機場山ちゃん(8/5)與宵夜むつみ承接;⚠️8/3(一)休",
+      "map": "https://maps.google.com/?cid=3001739886127397372"
+    },
+    {
+      "id": "39c8c20adbcc8181a60dcc3eea8e45ac",
+      "name": "《美食》天ぷらきしめん たもん(中日ビル)",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–21:00\n電話號碼:052-228-6970\nGoogle評分:3.3★(183則)\n備註:栄中日ビル B1",
+      "map": "https://maps.google.com/?cid=12191967238043902601"
+    },
+    {
+      "id": "39c8c20adbcc818b8a18d20c5e591c1b",
+      "name": "《購物》第一アメ横ビル(二手3C)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–20:00(各店不一)\n網站:http://osu-ameyoko.co.jp/\n電話號碼:052-251-0100\nGoogle評分:3.7★(1,512則)\n備註:電子零件/二手3C雜居大樓,junk挖寶(大須)",
+      "map": "https://maps.google.com/?cid=168883582866048845"
+    },
+    {
+      "id": "39c8c20adbcc818d97d4fd116999d4c3",
+      "name": "《購物》UNIQLO 栄スカイル店",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://map.uniqlo.com/jp/ja/detail/101765\n電話號碼:050-3098-0474\nGoogle評分:3.9★(599則)\n備註:スカイル 5F,與お台所ふらり(9F)同棟",
+      "map": "https://maps.google.com/?cid=14397157676429917985"
+    },
+    {
+      "id": "39c8c20adbcc8192a68ddda5070b1a6e",
+      "name": "《購物》コメ兵 名古屋本館(二手精品百貨)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:30–19:00\n網站:https://komehyo.jp/\n電話號碼:052-242-0088\nGoogle評分:4.2★(1,464則)\n備註:名古屋起家的二手百貨(3C/相機/錶/精品,大須)",
+      "map": "https://maps.google.com/?cid=10401523101910465537"
+    },
+    {
+      "id": "39c8c20adbcc8192a975d561e3c98ec8",
+      "name": "《購物》丸善 名古屋本店(書店)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–21:00\n電話號碼:052-238-0320\nGoogle評分:4.2★(3,149則)\n備註:栄大型書店(B1–5F)",
+      "map": "https://maps.google.com/?cid=2863691500248692511"
+    },
+    {
+      "id": "39c8c20adbcc8193afebfa5f4610ba35",
+      "name": "《美食》叙々苑 名古屋栄店",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–23:00\n網站:https://www.jojoen.co.jp/\n電話號碼:052-269-1189\nGoogle評分:4.5★(224則)\n備註:マルエイガレリア 3F(與タイチ食堂、TKGたまらん同層)",
+      "map": "https://maps.google.com/?cid=866735250752586593"
+    },
+    {
+      "id": "39c8c20adbcc81949adfc5d6bf1ec839",
+      "name": "《購物》Loft 栄(名古屋)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://www.loft.co.jp/shop_list/detail.php?shop_id=525\n電話號碼:052-243-6210\nGoogle評分:3.9★(299則)\n備註:栄NOVA 3–6F,文創/設計雜貨",
+      "map": "https://maps.google.com/?cid=17031598246023794187"
+    },
+    {
+      "id": "39c8c20adbcc81999ae3dcfd3f756311",
+      "name": "《美食》yoake(なごのキャンパス)",
+      "category": "☕咖啡廳 🥯早餐",
+      "city": "名古屋",
+      "detail": "營業時間:平日 08:00–17:00/週六日 08:00–18:00\n網站:https://yoake-cafe.com/\n電話號碼:052-526-2288\nGoogle評分:4.0★(256則)\n備註:円頓寺一帶,08:00 開可當早餐",
+      "map": "https://maps.google.com/?cid=9916210304050331943"
+    },
+    {
+      "id": "39c8c20adbcc8199a7b5e91255000680",
+      "name": "《點心》新雀本店(御手洗糰子)",
+      "category": "🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:每日 12:00–19:00\n電話號碼:052-221-7010\nGoogle評分:3.4★(869則)\n備註:大須現烤みたらし糰子老攤",
+      "map": "https://maps.google.com/?cid=10486504428451288461"
+    },
+    {
+      "id": "39c8c20adbcc819c8909ef3df1d5e42b",
+      "name": "《購物》バナナレコード 大須店(黑膠)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–20:00\n網站:https://www.bananarecord.jp/\n電話號碼:052-249-7757\nGoogle評分:4.0★(216則)\n備註:名古屋在地二手唱片行龍頭(大須);另有多家分店",
+      "map": "https://maps.google.com/?cid=3418778711255464071"
+    },
+    {
+      "id": "39c8c20adbcc819db2b6d7dfe0ac716e",
+      "name": "《購物》ジャングル名古屋(特攝フィギュア)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:平日 12:00–20:00/週六日 11:00–20:00\n網站:http://jungle-scs.co.jp/\n電話號碼:052-684-7544\nGoogle評分:3.8★(232則)\n備註:特攝/怪獸/英雄フィギュア中古專門(大須)",
+      "map": "https://maps.google.com/?cid=13960691283006754891"
+    },
+    {
+      "id": "39c8c20adbcc81a38e17c8b536c4bc15",
+      "name": "《美食》Meat アルフ(牛排)",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:週二–五 11:30–15:30、17:00–22:00/週六日 11:30–16:00、17:00–22:00/週一休\n網站:https://instagram.com/meat_alf\n電話號碼:080-9981-7937\nGoogle評分:4.1★(127則)\n備註:⚠️8/3(一)休",
+      "map": "https://maps.google.com/?cid=2273151411359373653"
+    },
+    {
+      "id": "39c8c20adbcc81a587c6e0a85eab5beb",
+      "name": "《購物》大塚屋 車道本店(布料/拼布)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間：週五至週三 10:00～18:30／週四休\n網站：https://otsukaya.co.jp/kurumamichi/\n電話號碼：052-935-4531\nGoogle評分：4.2★（1,909則）\n備註：名古屋最大布料百貨，整棟布料與拼布材料；交通：大須上前津→名城線2站→久屋大通轉桜通線1站→車道站，單程約15分",
+      "map": "https://maps.google.com/?cid=12143816043833973318"
+    },
+    {
+      "id": "39c8c20adbcc81a59653efc8e2f71297",
+      "name": "《美食》麺家獅子丸",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–14:30、17:30–21:00\n網站:https://www.menya-hanzo.com/\n電話號碼:052-453-0440\nGoogle評分:4.3★(3,113則)\n備註:名駅西側(亀島)人氣拉麵",
+      "map": "https://maps.google.com/?cid=3683998805213358281"
+    },
+    {
+      "id": "39c8c20adbcc81a799bacb703af01c66",
+      "name": "《購物》じゃんぱら 仙台EBeanS店(二手3C)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://www.janpara.co.jp/shopinfo/shop/?shopcd=223\n電話號碼:022-263-3725\nGoogle評分:4.2★(82則)\n備註:二手3C/手機/電腦專門(EBeanS 1F)",
+      "map": "https://maps.google.com/?cid=10079187106288222410"
+    },
+    {
+      "id": "39c8c20adbcc81a8bd44c1454b55eeac",
+      "name": "《美食》鳥開総本家 名駅ユニモール店",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–21:30\n網站:https://torikai-meieki-unimall.com/\n電話號碼:050-5448-8694\nGoogle評分:3.9★(281則)\n備註:名古屋交趾雞親子丼、手羽先;此為名駅地下街ユニモール店",
+      "map": "https://maps.google.com/?cid=9040321965979937824"
+    },
+    {
+      "id": "39c8c20adbcc81aa8852ceac59276fc5",
+      "name": "《美食》まんまる村(發酵喫茶・飯糰)",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–18:00\n網站:https://manmaru-mura.com/\n電話號碼:052-228-6537\nGoogle評分:4.5★(84則)\n備註:現做飯糰與出汁(錦3)",
+      "map": "https://maps.google.com/?cid=12902204389953705213"
+    },
+    {
+      "id": "39c8c20adbcc81b0a2cfeeda7060def6",
+      "name": "《購物》ディスクノート(二手唱片)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:週四–二 12:00–20:00/週三休\n網站:http://www.disknote.com/shopinfo.html\n電話號碼:022-222-2837\nGoogle評分:4.0★(47則)\n備註:本町老牌二手唱片行;⚠️週三休(7/29不行,7/30可)",
+      "map": "https://maps.google.com/?cid=12459520456798624680"
+    },
+    {
+      "id": "39c8c20adbcc81b59c97f747f28a0c3d",
+      "name": "《點心》弁才天 大須店(水果大福)",
+      "category": "🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:週日–四 10:00–19:00/週五六 10:00–20:00\n網站:http://benzaiten-daifuku.jp/\n電話號碼:052-265-8753\nGoogle評分:4.2★(159則)\n備註:覚王山フルーツ大福,切面水果大福",
+      "map": "https://maps.google.com/?cid=13853443809277806916"
+    },
+    {
+      "id": "39c8c20adbcc81b78a39f24738033462",
+      "name": "《購物》円頓寺商店街",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:各店不一\n網站:https://endojishotengai.com/\n電話號碼:052-433-6027\nGoogle評分:3.9★(1,646則)\n備註:昭和下町風老商店街,New Poppy、yoake 都在這一帶",
+      "map": "https://maps.google.com/?cid=578642338515936276"
+    },
+    {
+      "id": "39c8c20adbcc81bbb0cfe98e5cf51805",
+      "name": "《活動》WCS 大須遊行×大須夏まつり手筒花火",
+      "category": "👻活動",
+      "city": "名古屋",
+      "detail": "時間 : 待官方公布(WCS 2026 為 7/31–8/2;遊行歷年在週末傍晚,手筒花火去年約 19:00 於大須観音境內)\n備註 : 幫爸媽找牆邊可倚靠的位置;散場人潮多,先進咖啡店等人流過了再走;若遊行公布在 8/1,則 8/2 只看夏まつり",
+      "map": null
+    },
+    {
+      "id": "39c8c20adbcc81c19c9cfb5ceeaa1f93",
+      "name": "《點心》XIII トレズ(本山)",
+      "category": "🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:週三–六 09:30–17:00/週日、一、二休\n網站:https://www.instagram.com/xiii_motoyama/\n電話號碼:052-784-4084\nGoogle評分:3.8★(10則)\n備註:本山甜點店;⚠️行程內只有 8/1(六)、8/5(三)有開",
+      "map": "https://maps.google.com/?cid=15531164957873391705"
+    },
+    {
+      "id": "39c8c20adbcc81c5b0f7cfe8759c5f99",
+      "name": "《美食》Faro(ふあろ,名駅)",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:週一–四 11:00–15:00、17:30–23:00/週五 11:00–15:00、17:30–23:30/週六日 10:30–15:00、16:00–23:00 前後\n網站:https://m3bangai.com/\n電話號碼:052-589-2317\nGoogle評分:3.8★(210則)\n備註:名駅2丁目",
+      "map": "https://maps.google.com/?cid=15355871174871306743"
+    },
+    {
+      "id": "39c8c20adbcc81c6890cd520dd137949",
+      "name": "《美食》黒船貴族(Kurofune)",
+      "category": "☕咖啡廳",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:30–18:30\nGoogle評分:3.5★(103則)\n備註:栄3丁目喫茶;Google 上店名顯示為 Kurofune",
+      "map": "https://maps.google.com/?cid=11509931066310382337"
+    },
+    {
+      "id": "39c8c20adbcc81c7ae9dd214ab997570",
+      "name": "《博物館》名古屋市市政資料館",
+      "category": "🏛️博物館",
+      "city": "名古屋",
+      "detail": "開館時間:週二–日 09:00–17:00/週一休\n電話號碼:052-953-0051\nGoogle評分:4.3★(1,440則)\n備註:大正紅磚建築,免費參觀;⚠️8/3(一)休",
+      "map": "https://maps.google.com/?cid=11306056831771512573"
+    },
+    {
+      "id": "39c8c20adbcc81cbaf25eb137158d100",
+      "name": "《早餐》na(今池烘焙坊)",
+      "category": "🥯早餐",
+      "city": "名古屋",
+      "detail": "營業時間:週四–一 10:00–19:00/週二、三休\n網站:https://www.instagram.com/na.nagoya/\n電話號碼:052-688-7448\nGoogle評分:4.0★(208則)\n備註:千種区内山的小型麵包店(今池一帶)",
+      "map": "https://maps.google.com/?cid=16332928980800832262"
+    },
+    {
+      "id": "39c8c20adbcc81cc88c8d2ba8682b996",
+      "name": "《購物》ハードオフ・オフハウス 仙台八幡店",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://www.hardoff.co.jp/shop/detail/?p=201441\n電話號碼:022-302-4833\nGoogle評分:4.1★(48則)\n備註:二手3C/樂器/雜貨;⭐在 Loople 路線上、大崎八幡宮旁(八幡3丁目 レキシントンプラザ2F),7/29 可順路",
+      "map": "https://maps.google.com/?cid=15466583574152902748"
+    },
+    {
+      "id": "39c8c20adbcc81ce950ce9f483475836",
+      "name": "《購物》丸善 仙台AER店(書店)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:週一–六 10:00–21:00/週日 10:00–20:00\n電話號碼:022-264-0151\nGoogle評分:4.1★(1,888則)\n備註:AER 1F,與 AER 展望台同棟,可一起排",
+      "map": "https://maps.google.com/?cid=3060718731161156824"
+    },
+    {
+      "id": "39c8c20adbcc81cebdceca04cf3e023c",
+      "name": "《購物》らしんばん 仙台店(二手動漫)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://www.lashinbang.com/store/3/\n電話號碼:0570-008-620\nGoogle評分:3.4★(151則)\n備註:二手動漫周邊;仙台駅前 EBeanS 次文化大樓 8F,1F 有じゃんぱら",
+      "map": "https://maps.google.com/?cid=15690029606772259206"
+    },
+    {
+      "id": "39c8c20adbcc81cfa784e071663d07c1",
+      "name": "《景點》名古屋港水族館",
+      "category": "📍景點",
+      "city": "名古屋",
+      "detail": "營業時間:平日 09:30–17:30/週六日 09:30–20:00\n網站:https://nagoyaaqua.jp/\n電話號碼:052-654-7080\nGoogle評分:4.4★(23,376則)\n備註:原排定8/4下午(水族館後接便便博物館),因8/4行程改為大阪一日遊,此案已擱置,保留作候補;栄→名城線金山轉名港線約25分",
+      "map": "https://maps.google.com/?cid=11648950608865910462"
+    },
+    {
+      "id": "39c8c20adbcc81d896ead39b4f032365",
+      "name": "《美食》西原珈琲店 栄店",
+      "category": "☕咖啡廳",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–22:00\n網站:http://nishiharacoffee.com/\n電話號碼:052-951-3485\nGoogle評分:4.2★(664則)\n備註:昭和風自家烘焙喫茶(錦3)",
+      "map": "https://maps.google.com/?cid=16483466993169641391"
+    },
+    {
+      "id": "39c8c20adbcc81dcaffbed0a9070cfb2",
+      "name": "《美食》喫茶ニューポピー(円頓寺)",
+      "category": "☕咖啡廳 🥯早餐",
+      "city": "名古屋",
+      "detail": "營業時間:週五–三 08:00–18:00/週四休\n網站:https://b-bitou.com/shop/\n電話號碼:052-433-8188\nGoogle評分:4.1★(680則)\n備註:円頓寺商店街老喫茶再生名店,08:00 開可モーニング",
+      "map": "https://maps.google.com/?cid=10224465003554025756"
+    },
+    {
+      "id": "39c8c20adbcc81e4bb44ff54b483ddab",
+      "name": "《點心》鳴門鯛焼本舗 大須(現烤鯛魚燒)",
+      "category": "🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:平日 10:30–22:00/週六日 10:00–22:00\n網站:http://www.taiyaki.co.jp/\n電話號碼:052-262-0544\nGoogle評分:4.2★(331則)\n備註:天然鯛魚燒(一尾一尾現烤)",
+      "map": "https://maps.google.com/?cid=4515982835595571127"
+    },
+    {
+      "id": "39c8c20adbcc81e7bc8fcc4aaa339c05",
+      "name": "《購物》C-pla 名古屋大須店(扭蛋)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–21:00\n電話號碼:070-3304-8143\nGoogle評分:4.1★(79則)\n備註:扭蛋專門店",
+      "map": "https://maps.google.com/?cid=1973112594324962132"
+    },
+    {
+      "id": "39c8c20adbcc81e89df0c2b41b692d35",
+      "name": "《美食》Q.O.L. COFFEE(栄PARCO)",
+      "category": "☕咖啡廳",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–20:00\n網站:http://www.qolcoffee.com/\n電話號碼:052-211-7967\nGoogle評分:4.6★(63則)\n備註:此為名古屋PARCO西館 1F 外帶店,本店在丸の内",
+      "map": "https://maps.google.com/?cid=8145912888834564821"
+    },
+    {
+      "id": "39c8c20adbcc81e98cc8f4c315aad240",
+      "name": "《景點》Oasis 21(綠洲21)",
+      "category": "📍景點",
+      "city": "名古屋",
+      "detail": "開放時間:每日 06:00–23:00(水の宇宙船空中迴廊至21:00)\n網站:https://www.sakaepark.co.jp/\n電話號碼:052-962-1011\nGoogle評分:4.1★(12,502則)\n備註:彈性選項、非必去——住處旁零成本順路點,8/1 有力氣再上去(迴廊21:00前),累了直接回家;之後任何一晚路過都能補;WCS 2026 主會場(7/31–8/2)",
+      "map": "https://maps.google.com/?cid=6106570356913046486"
+    },
+    {
+      "id": "39c8c20adbcc81f6b837de538aafd875",
+      "name": "《購物》J&B 北目町店(二手黑膠)",
+      "category": "🛒購物",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 11:00–20:00\n電話號碼:022-268-6654\nGoogle評分:4.1★(64則)\n備註:二手黑膠/CD;在北目町,APA五橋步行幾分鐘,爸爸可自己散步去",
+      "map": "https://maps.google.com/?cid=10486419885881167585"
+    },
+    {
+      "id": "39c8c20adbcc81f7985de78c45115437",
+      "name": "《購物》スーパーポテト 名古屋店(復古電玩)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 11:00–20:00\n網站:https://www.superpotato.com/shop/nagoya/\n電話號碼:052-261-3005\nGoogle評分:4.2★(318則)\n備註:復古電玩聖地(主機/卡帶),爸爸也適合(大須)",
+      "map": "https://maps.google.com/?cid=12077239155195281937"
+    },
+    {
+      "id": "39c8c20adbcc81fb88deffbcbc0654d2",
+      "name": "《美食》かつ巳(矢場町)",
+      "category": "🍴美食",
+      "city": "名古屋",
+      "detail": "營業時間:週一–六 18:00–23:00/週日休\n電話號碼:未提供\nGoogle評分:4.3★(73則)\n備註:栄5丁目(矢場町一帶)居酒屋;⚠️8/2(日)休,行程內 8/1、8/3、8/4 晚上可去",
+      "map": "https://maps.google.com/?cid=6724250131842622441"
+    },
+    {
+      "id": "39c8c20adbcc81fcab73cb87e3d2c5ca",
+      "name": "《購物》駿河屋 大須本館(二手玩具模型)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–21:00\n網站:https://www.suruga-ya.jp/feature/osu_main/index.html\n電話號碼:052-684-4971\nGoogle評分:3.6★(647則)\n備註:二手玩具/遊戲/模型量販(大須 3–5F)",
+      "map": "https://maps.google.com/?cid=619414291682347992"
+    },
+    {
+      "id": "39b8c20adbcc8119b0addac023e0c1ca",
+      "name": "《景點》AER 展望テラス",
+      "category": "📍景點",
+      "city": "仙台市區",
+      "detail": "營業時間:每日 10:00–20:00\n網站:http://www.sendai-aer.com/\n電話號碼:022-724-1111\nGoogle評分:4.2★(1,832則)\n備註:仙台駅旁 AER 大樓 31F 免費展望台,和 SS30 是不同棟",
+      "map": "https://maps.google.com/?cid=8481145272168286627"
+    },
+    {
+      "id": "39c8c20adbcc81249723c3942299b2f8",
+      "name": "《景點》大須観音",
+      "category": "⛩️神社",
+      "city": "名古屋",
+      "detail": "開放時間:每日 06:00–19:00\n網站:http://www.osu-kannon.jp/\n電話號碼:052-231-6525\nGoogle評分:4.2★(12,213則)\n備註:佛寺(觀音);商店街起點",
+      "map": "https://maps.google.com/?cid=2881118202202290152"
+    },
+    {
+      "id": "39c8c20adbcc814fb22cf5e0c51e9e92",
+      "name": "《神社》三輪神社(兔子神社)",
+      "category": "⛩️神社",
+      "city": "名古屋",
+      "detail": "開放時間:每日 09:00–17:00\n網站:http://miwajinnjya.com/\n電話號碼:052-241-7468\nGoogle評分:4.2★(2,252則)\n備註:大須的兔子神社,摸兔子像祈福",
+      "map": "https://maps.google.com/?cid=13459223151485463142"
+    },
+    {
+      "id": "39c8c20adbcc81d1add8d343d1c5a5af",
+      "name": "《美食》コンパル 大須本店(蝦排三明治)",
+      "category": "☕咖啡廳 🥯早餐",
+      "city": "名古屋",
+      "detail": "營業時間:每日 08:00–19:00\n網站:https://www.konparu.co.jp/\n電話號碼:052-241-3883\nGoogle評分:4.2★(2,109則)\n備註:老喫茶,蝦排三明治(エビフライサンド)名店,08:00 開可當早餐",
+      "map": "https://maps.google.com/?cid=12588659716066530604"
+    },
+    {
+      "id": "39c8c20adbcc81d081d7f41ad243f65b",
+      "name": "《購物》大須商店街",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:各店不一(街區全日開放)\n網站:https://osu.nagoya/\nGoogle評分:4.2★(10,350則)\n備註:頂棚商店街,天然避暑",
+      "map": "https://maps.google.com/?cid=630004074376698532"
+    },
+    {
+      "id": "39c8c20adbcc8127bf2be4e6b2519932",
+      "name": "《美食》犬山牛太郎",
+      "category": "🍴美食",
+      "city": "犬山",
+      "detail": "營業時間:每日 09:00–17:00\n網站:https://nbvt805.gorp.jp/\n電話號碼:050-5492-1667\nGoogle評分:3.8★(179則)\n備註:犬山城下町(東古券)食べ歩き,烤牛肉系外帶店",
+      "map": "https://maps.google.com/?cid=11135913289678551179"
+    },
+    {
+      "id": "39c8c20adbcc815a95c4fd59af15bf2a",
+      "name": "《點心》うし若丸 本店(牛たこ焼)",
+      "category": "🍰點心",
+      "city": "犬山",
+      "detail": "營業時間:每日 10:00–18:00\n網站:https://globalnet.ne.jp/\n電話號碼:070-1680-0399\nGoogle評分:⚠️2.9★(74則)\n備註:牛肉章魚燒創始店(西古券 森のマルシェ);評分偏低留意",
+      "map": "https://maps.google.com/?cid=17470886395094993861"
+    },
+    {
+      "id": "39c8c20adbcc81689aa0f57eef654a2c",
+      "name": "《美食》肉兵衛(犬山城下町)",
+      "category": "🍴美食",
+      "city": "犬山",
+      "detail": "營業時間:每日 11:00–17:00\nGoogle評分:4.3★(193則)\n備註:城下町東古券675,飛騨牛系食べ歩き",
+      "map": "https://maps.google.com/?cid=9187795886829799241"
+    },
+    {
+      "id": "39c8c20adbcc8149b862dc2d33476b9c",
+      "name": "《美食》蘭丸(犬山城下町)",
+      "category": "🍴美食",
+      "city": "犬山",
+      "detail": "營業時間:Google 未提供,現場確認\nGoogle評分:4.4★(47則)\n備註:城下町東古券675(與肉兵衛同一區,昭和横丁一帶)",
+      "map": "https://maps.google.com/?cid=17861352342397240956"
+    },
+    {
+      "id": "39c8c20adbcc815cbb0aeb39f2cb503c",
+      "name": "《美食》壽俵屋 犬山井上邸(守口漬)",
+      "category": "🍴美食",
+      "city": "犬山",
+      "detail": "營業時間:每日 10:00–16:30\n網站:http://www.fusomoriguchi.co.jp/inouetei/\n電話號碼:0568-62-7722\nGoogle評分:4.1★(181則)\n備註:守口漬老舖,名物「醤油おこげ串」(城下町西古券)",
+      "map": "https://maps.google.com/?cid=6822775507648962506"
+    },
+    {
+      "id": "3a48c20adbcc81a688ebc125fe86b499",
+      "name": "《博物館》どんでん館",
+      "category": "🏛️博物館",
+      "city": "犬山",
+      "detail": "開館時間：9:00〜17:00（最終入館 16:30）\n門票：大人100圓（中學生以下免費）\n備註：展示犬山祭典実物大花車，室內平面\n地圖：https://www.google.com/maps/search/?api=1&query=どんでん館犬山",
+      "map": null
+    },
+    {
+      "id": "3a48c20adbcc818b80b1d346a323a5d2",
+      "name": "《博物館》城とまちミュージアム(文化史料館)",
+      "category": "🏛️博物館",
+      "city": "犬山",
+      "detail": "門票：大人300圓（中學生以下免費）\n備註：展示犬山城下町歷史文物、城區模型，室內平面參觀，不需要上下樓梯\n地圖：https://www.google.com/maps/search/?api=1&query=犬山市文化史料館",
+      "map": null
+    },
+    {
+      "id": "3a48c20adbcc81b2aa26f5ce506bcdc8",
+      "name": "《神社》三光稲荷神社",
+      "category": "⛩️神社",
+      "city": "犬山",
+      "detail": "參拜時間：24小時（免費）\n地址：愛知県犬山市犬山北古券21-1\n電話：0568-61-0702\n備註：位於犬山城山腳，平面好走；境內姬龜神社以粉紅心形繪馬著名，適合拍照；御朱印500圓\n地圖：https://www.google.com/maps/search/?api=1&query=三光稲荷神社犬山",
+      "map": null
+    },
+    {
+      "id": "3a48c20adbcc81f7ad62edf54ade22df",
+      "name": "《景點》犬山城外觀(不入天守)",
+      "category": "📍景點",
+      "city": "犬山",
+      "detail": "備註：天守本體內部樓梯很多，不入內參觀；在城跡公園從外面看天守外觀拍照即可，與三光稲荷神社同區域\n地圖：https://www.google.com/maps/search/?api=1&query=犬山城",
+      "map": null
+    },
+    {
+      "id": "39c8c20adbcc8142b84bfcbca7a22acc",
+      "name": "《美食》Ito Coffee(伊藤珈琲本店)",
+      "category": "☕咖啡廳",
+      "city": "名古屋",
+      "detail": "營業時間:週二–六 11:00–17:00/週日、一休\n網站:https://shop-ito-coffee.com/\n電話號碼:052-962-3541\nGoogle評分:4.4★(57則)\n備註:咖啡豆烘焙老舖併設喫茶(東区泉,與鍋屋同區);曾是8/4爸媽留名古屋時的歇腳選項候補(開到17:00)",
+      "map": "https://maps.google.com/?cid=6783757868428966495"
+    },
+    {
+      "id": "39c8c20adbcc81689adff0947c62fcfd",
+      "name": "《美食》喫茶ボンボン",
+      "category": "☕咖啡廳 🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:每日 08:00–21:00\n網站:http://www.cake-bonbon.com/\n電話號碼:052-931-0442\nGoogle評分:4.1★(2,512則)\n備註:1949 年創業老喫茶,復古蛋糕;08:00 開可當早餐(東区泉)",
+      "map": "https://maps.google.com/?cid=11809226961155790645"
+    },
+    {
+      "id": "39c8c20adbcc81f594d1c7683a1d2aaa",
+      "name": "《購物》鍋屋(廚房用品老舖)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:週一–五 09:00–18:00/週六日休\n網站:https://www.rakuten.co.jp/nabe1559/\n電話號碼:052-931-0123\nGoogle評分:4.5★(76則)\n備註:廚具/鍋具老舖(東区泉);曾是8/4爸媽留名古屋時的下午選項候補(開到18:00);⚠️週末休",
+      "map": "https://maps.google.com/?cid=3960811874526035902"
+    },
+    {
+      "id": "39c8c20adbcc8167bb2ceabb9386c3ca",
+      "name": "《購物》Hands 名古屋(JR高島屋)",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–20:00\n網站:http://nagoya.hands.net/\n電話號碼:052-566-0109\nGoogle評分:3.9★(908則)\n備註:JR名古屋高島屋 5–11F,與Échiré同棟",
+      "map": "https://maps.google.com/?cid=1997319193267363957"
+    },
+    {
+      "id": "39c8c20adbcc81ceb04edd64dfab72cd",
+      "name": "《購物》アニメイト名古屋",
+      "category": "🛒購物",
+      "city": "名古屋",
+      "detail": "營業時間:平日 11:00–20:00/週六日 10:00–20:00\n網站:https://www.animate.co.jp/shop/nagoya/\n電話號碼:052-453-1322\nGoogle評分:4.0★(3,278則)\n備註:名古屋駅西口椿町,比仙台店大",
+      "map": "https://maps.google.com/?cid=17664812349781568463"
+    },
+    {
+      "id": "39c8c20adbcc8168a733cc05a8c72b68",
+      "name": "《點心》Échiré(艾許奶油)名古屋高島屋",
+      "category": "🍰點心",
+      "city": "名古屋",
+      "detail": "營業時間:每日 10:00–20:00\n網站:https://www.kataoka.com/echire/patisserieaubeurre/nagoya/\n電話號碼:052-566-1101\nGoogle評分:4.1★(328則)\n備註:法國 AOP 發酵奶油甜點,可頌/費南雪常完售建議早上去;JR名古屋高島屋內",
+      "map": "https://maps.google.com/?cid=2989992596820582136"
+    }
+  ]
+}

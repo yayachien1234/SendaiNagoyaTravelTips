@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>仙台・名古屋家族旅 2026</title>
+<meta name="theme-color" content="#33507a">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="家族旅行程">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ============ 時間軸畫面 ============ -->
+<section id="screen-timeline" class="screen active">
+  <div class="appbar">
+    <h1>仙台・名古屋家族旅</h1>
+    <div class="viewer-switch">
+      <button data-viewer="我">我</button>
+      <button data-viewer="爸">爸</button>
+      <button data-viewer="媽">媽</button>
+    </div>
+  </div>
+  <div id="trip-status" class="tripstatus" style="display:none;"></div>
+  <div class="daynav">
+    <button id="day-prev" aria-label="前一天">◀</button>
+    <div class="datelabel">
+      <div class="d" id="day-date">—</div>
+      <div class="w" id="day-weekday">—</div>
+    </div>
+    <button id="day-next" aria-label="後一天">▶</button>
+  </div>
+  <main>
+    <div id="timeline-list" class="timeline"></div>
+  </main>
+</section>
+
+<!-- ============ 候選瀏覽畫面 ============ -->
+<section id="screen-candidates" class="screen">
+  <div class="appbar">
+    <h1>自由活動候選清單</h1>
+  </div>
+  <main>
+    <div class="filters">
+      <input id="cand-search" class="searchbox" type="search" placeholder="搜尋店名、關鍵字…">
+      <div id="cand-city-chips" class="chiprow"></div>
+      <div id="cand-cat-chips" class="chiprow"></div>
+    </div>
+    <div id="cand-count" class="resultcount"></div>
+    <div id="candidate-list" class="candidate-list"></div>
+  </main>
+</section>
+
+<!-- ============ 詳情 sheet ============ -->
+<div id="sheet-backdrop" class="sheet-backdrop hidden">
+  <div class="sheet">
+    <div class="grabber"></div>
+    <h2 id="sheet-name"></h2>
+    <div id="sheet-cat" class="cat-line"></div>
+    <div id="sheet-detail" class="detail-text"></div>
+    <div id="sheet-phone" class="phone-row" style="display:none;">
+      <span>電話</span><b id="sheet-phone-num"></b>
+    </div>
+    <a id="sheet-map" class="map-btn" href="#" target="_blank" rel="noopener">在 Google 地圖開啟</a>
+    <button class="close" id="sheet-close">關閉</button>
+  </div>
+</div>
+
+<!-- ============ 底部分頁 ============ -->
+<nav class="tabbar">
+  <button id="tab-timeline" class="active" data-screen="screen-timeline">
+    <span class="icon">🗓️</span>今日時間軸
+  </button>
+  <button id="tab-candidates" data-screen="screen-candidates">
+    <span class="icon">🔎</span>候選清單
+  </button>
+</nav>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -484,6 +484,28 @@
         "categories": [
           "🍴美食"
         ]
+      },
+      {
+        "type": "item",
+        "id": "3988c20adbcc806aa9f5c140189f021a",
+        "time": null,
+        "name": "《住宿》ホテル松島大観荘",
+        "detail": "房型 : 山景房 ( 兩床 ) + 海景房 (兩房)\n電話 : +81223545214\n櫃檯服務時間 : 24hr\nCheck in : 14:00\nCheck out : 11:00\n浴場開放時間 : 14:00 ~ 25:00 / 次日上午 ~ 10:00\nLF（大廳層）：大廳、賣店、精品店、茶廊、會員專用酒廊、吸菸區、會議室\nM2F（夾層 2 樓）：卡拉OK包廂、宵夜區\n 1樓：美容按摩、大浴場・露天風呂、遊戲區、吸菸區、會議室\n 2樓：大宴會場\n 3樓：個室宴會場\n 7樓：主餐廳",
+        "map": "https://maps.app.goo.gl/xD3wvkkqKdAnL2Kv7",
+        "viewerOnly": null,
+        "categories": [
+          "🏡住宿"
+        ],
+        "attachments": [
+          {
+            "label": "訂房確認 大観荘（房1）",
+            "file": "attachments/hotel-matsushima-taikanso-room-01.pdf"
+          },
+          {
+            "label": "訂房確認 大観荘（房2）",
+            "file": "attachments/hotel-matsushima-taikanso-room-02.pdf"
+          }
+        ]
       }
     ],
     "2026-08-01": [

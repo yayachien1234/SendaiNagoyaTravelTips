@@ -70,7 +70,11 @@
 
   function accommodationForDate(dateStr) {
     const list = state.data.accommodations || [];
-    return list.find((a) => dateStr >= a.dateStart && dateStr <= a.dateEnd) || null;
+    // dateEnd是退房日：換宿日（前一間退房=後一間入住）要指向「當晚要住」的那間，
+    // 所以區間用 start <= date < end；最後一天（純退房、當晚不住）退回end==date的那間
+    return list.find((a) => dateStr >= a.dateStart && dateStr < a.dateEnd)
+        || list.find((a) => dateStr === a.dateEnd)
+        || null;
   }
 
   function pickInitialDayIndex() {
@@ -193,6 +197,9 @@
     } else {
       mapBtn.style.display = "none";
     }
+    $("#sheet-attachments").innerHTML = (item.attachments || []).map((a) =>
+      `<a class="map-btn confirm" href="${escapeHtml(a.file)}" target="_blank" rel="noopener">📄 ${escapeHtml(a.label)}</a>`
+    ).join("");
     const confirmBtn = $("#sheet-confirm");
     if (item.bookingConfirmationUrl) {
       confirmBtn.style.display = "";

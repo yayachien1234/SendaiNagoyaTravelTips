@@ -29,7 +29,12 @@
         "categories": [
           "🚗移動"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/3988c20adbcc8092ad71f8d3f361f53c"
+        "attachments": [
+          {
+            "label": "機票確認 TPE→SDJ",
+            "file": "attachments/flight-tpe-sdj.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -42,7 +47,12 @@
         "categories": [
           "🚗移動"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/3988c20adbcc80428a71e3c7fb057f2c"
+        "attachments": [
+          {
+            "label": "票券 仙台空港→JR仙台駅",
+            "file": "attachments/transit-airport-to-sendai.webp"
+          }
+        ]
       },
       {
         "type": "item",
@@ -79,7 +89,12 @@
         "categories": [
           "🏡住宿"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/3988c20adbcc80a7b2d4e8c890911dc6"
+        "attachments": [
+          {
+            "label": "訂房確認 APA仙台駅五橋",
+            "file": "attachments/hotel-apa-sendai.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -239,7 +254,12 @@
         "map": null,
         "viewerOnly": "me",
         "categories": [],
-        "bookingConfirmationUrl": "https://www.notion.so/39a8c20adbcc803cae10d92f20d006bd"
+        "attachments": [
+          {
+            "label": "車票 二戶駅→輕米",
+            "file": "attachments/transit-ninohe-to-karumai.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -280,7 +300,12 @@
         "map": null,
         "viewerOnly": "me",
         "categories": [],
-        "bookingConfirmationUrl": "https://www.notion.so/39a8c20adbcc8062a68ede9c1f9cbd91"
+        "attachments": [
+          {
+            "label": "車票 輕米→二戶駅",
+            "file": "attachments/transit-karumai-to-ninohe.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -302,6 +327,12 @@
         "viewerOnly": null,
         "categories": [
           "🍴美食"
+        ],
+        "attachments": [
+          {
+            "label": "訂位確認 うま囲",
+            "file": "attachments/dinner-umagakoi.pdf"
+          }
         ]
       }
     ],
@@ -329,7 +360,12 @@
         "categories": [
           "🚗移動"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/3998c20adbcc80e4a9f1c38cd939f3bb"
+        "attachments": [
+          {
+            "label": "票券 仙台駅→松島海岸駅",
+            "file": "attachments/transit-sendai-to-matsushima.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -354,7 +390,12 @@
         "categories": [
           "🍴美食"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/3998c20adbcc80b29af2c6549730018c"
+        "attachments": [
+          {
+            "label": "訂位確認 丼松島",
+            "file": "attachments/lunch-donmatsushima.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -391,7 +432,16 @@
         "categories": [
           "🏡住宿"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/3988c20adbcc806aa9f5c140189f021a"
+        "attachments": [
+          {
+            "label": "訂房確認 大観荘（房1）",
+            "file": "attachments/hotel-matsushima-taikanso-room-01.pdf"
+          },
+          {
+            "label": "訂房確認 大観荘（房2）",
+            "file": "attachments/hotel-matsushima-taikanso-room-02.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -478,7 +528,12 @@
         "categories": [
           "🚗移動"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/39b8c20adbcc81a3a45edb2aa84da2b2"
+        "attachments": [
+          {
+            "label": "票券 松島海岸駅→仙台駅",
+            "file": "attachments/transit-matsushima-to-sendai.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -503,7 +558,12 @@
         "categories": [
           "🚗移動"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/3998c20adbcc808a9a36f315aebdf3f4"
+        "attachments": [
+          {
+            "label": "票券 JR仙台駅→仙台空港",
+            "file": "attachments/transit-sendai-to-airport.webp"
+          }
+        ]
       },
       {
         "type": "item",
@@ -516,7 +576,20 @@
         "categories": [
           "🚗移動"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/3998c20adbcc80fc9471faf17073772c"
+        "attachments": [
+          {
+            "label": "機票 SDJ→NGO（本人）",
+            "file": "attachments/flight-sdj-ngo-yeh.pdf"
+          },
+          {
+            "label": "機票 SDJ→NGO（爸爸）",
+            "file": "attachments/flight-sdj-ngo-dad.pdf"
+          },
+          {
+            "label": "機票 SDJ→NGO（媽媽）",
+            "file": "attachments/flight-sdj-ngo-mom.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -529,7 +602,12 @@
         "categories": [
           "🚗移動"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/39b8c20adbcc81b7b6bce4176cc668ad"
+        "attachments": [
+          {
+            "label": "票券 中部空港→名鉄名古屋",
+            "file": "attachments/transit-centrair-to-meitetsu-nagoya.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -554,7 +632,12 @@
         "categories": [
           "👻活動"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/39b8c20adbcc8116bc1af669d660b6e3"
+        "attachments": [
+          {
+            "label": "訂房確認 名古屋Airbnb",
+            "file": "attachments/hotel-nagoya-airbnb.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -567,7 +650,12 @@
         "categories": [
           "🍴美食"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/39c8c20adbcc81ee81a8e05112cf6d1e"
+        "attachments": [
+          {
+            "label": "訂位確認 うな富士HAERA",
+            "file": "attachments/dinner-unafuji-haera.pdf"
+          }
+        ]
       },
       {
         "type": "item",
@@ -617,6 +705,12 @@
         "viewerOnly": null,
         "categories": [
           "🍴美食"
+        ],
+        "attachments": [
+          {
+            "label": "訂位確認 馬喰一代(飛驒牛)",
+            "file": "attachments/dinner-bakuroichidai.pdf"
+          }
         ]
       }
     ],
@@ -786,6 +880,12 @@
         "viewerOnly": null,
         "categories": [
           "🍴美食"
+        ],
+        "attachments": [
+          {
+            "label": "訂位確認 Lamian",
+            "file": "attachments/dinner-lamian.pdf"
+          }
         ]
       }
     ],
@@ -3025,7 +3125,12 @@
       "dateEnd": "2026-07-31",
       "map": "https://maps.app.goo.gl/opGzgs5fDVQqFNDz5",
       "detail": "房型 : 2 X 客房 ( 兩床 )\n電話 01 : 0570-023-111\n電話 02 : +81 22-266-3111\n櫃檯服務時間 : 18:00 ~ 04:00\nCheck in : 15:00 ( 支援自助Check in )\nCheck out : 10:00 ( 支援自助Check out )\n入住 7/28–7/31 三晚",
-      "bookingConfirmationUrl": "https://www.notion.so/3988c20adbcc80a7b2d4e8c890911dc6"
+      "attachments": [
+        {
+          "label": "訂房確認 APA仙台駅五橋",
+          "file": "attachments/hotel-apa-sendai.pdf"
+        }
+      ]
     },
     {
       "id": "3988c20adbcc806aa9f5c140189f021a",
@@ -3034,7 +3139,16 @@
       "dateEnd": "2026-08-01",
       "map": "https://maps.app.goo.gl/xD3wvkkqKdAnL2Kv7",
       "detail": "房型 : 山景房 ( 兩床 ) + 海景房 (兩房)\n電話 : +81223545214\n櫃檯服務時間 : 24hr\nCheck in : 14:00\nCheck out : 11:00\n入住 7/31–8/1 一晚（一泊二食）",
-      "bookingConfirmationUrl": "https://www.notion.so/3988c20adbcc806aa9f5c140189f021a"
+      "attachments": [
+        {
+          "label": "訂房確認 大観荘（房1）",
+          "file": "attachments/hotel-matsushima-taikanso-room-01.pdf"
+        },
+        {
+          "label": "訂房確認 大観荘（房2）",
+          "file": "attachments/hotel-matsushima-taikanso-room-02.pdf"
+        }
+      ]
     },
     {
       "id": "39b8c20adbcc8116bc1af669d660b6e3",
@@ -3043,7 +3157,12 @@
       "dateEnd": "2026-08-05",
       "map": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8D%80%E6%A0%845-12-30",
       "detail": "Room 403\nCheck in : 16:00 起\nCheck out : 10:00\n入住 8/1–8/5 四晚",
-      "bookingConfirmationUrl": "https://www.notion.so/39b8c20adbcc8116bc1af669d660b6e3"
+      "attachments": [
+        {
+          "label": "訂房確認 名古屋Airbnb",
+          "file": "attachments/hotel-nagoya-airbnb.pdf"
+        }
+      ]
     }
   ]
 }

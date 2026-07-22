@@ -387,6 +387,12 @@
         "viewerOnly": null,
         "categories": [
           "👻活動"
+        ],
+        "attachments": [
+          {
+            "label": "訂票確認 松島觀光船仁王丸",
+            "file": "attachments/marsushima-boat.pdf"
+          }
         ]
       },
       {

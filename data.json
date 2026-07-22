@@ -956,7 +956,7 @@
   "candidates": [
     {
       "id": "3988c20adbcc8000b24cdd51b1c41296",
-      "name": "《西友 五橋店》",
+      "name": "《超市》西友 五橋店",
       "city": "仙台市區",
       "detail": "營業時間 : 24 小時營業",
       "map": "https://maps.app.goo.gl/yjMvvj4wrpDDhEbu8",
@@ -966,7 +966,7 @@
     },
     {
       "id": "3988c20adbcc80019226f61a121f57e8",
-      "name": "《Lalagarden長町》",
+      "name": "《購物》Lalagarden長町",
       "city": "仙台市區",
       "detail": "營業時間 : 10:00 ~ 22:00\n大約地點 : (蠻遠的)地鐵長町南站徒步1min",
       "map": "https://maps.app.goo.gl/xEaPLd34dG5m8ms18",
@@ -976,7 +976,7 @@
     },
     {
       "id": "3988c20adbcc8005b03af0656073ee39",
-      "name": "《AEON EXPRESS 仙台北目町》",
+      "name": "《超市》AEON EXPRESS 仙台北目町",
       "city": "仙台市區",
       "detail": "營業時間 : 08:00–23:00",
       "map": "https://maps.app.goo.gl/9rLT7hLheW7qH7yw7",
@@ -986,7 +986,7 @@
     },
     {
       "id": "3988c20adbcc800ca3cfcee9a403d451",
-      "name": "《FamilyMart 仙台 APA Hotel》",
+      "name": "《便利商店》FamilyMart 仙台 APA Hotel",
       "city": "仙台市區",
       "detail": "",
       "map": "https://maps.app.goo.gl/zn1VBCQgavyuw5ZY6",
@@ -996,7 +996,7 @@
     },
     {
       "id": "3988c20adbcc8017b0eedae6b0270046",
-      "name": "《仙台PARCO》動漫迷必到",
+      "name": "《購物》仙台PARCO(動漫迷必到)",
       "city": "仙台市區",
       "detail": "營業時間 : 10:00 ~ 20:00\n大約地點 : 仙台車站",
       "map": "https://maps.app.goo.gl/DnMBk5D7UW4ckmMT9",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": "3988c20adbcc801cafeafb6f117c464f",
-      "name": "《COOP Miyagi》",
+      "name": "《超市》COOP Miyagi",
       "city": "仙台市區",
       "detail": "營業時間 : 09:30–23:00",
       "map": "https://maps.app.goo.gl/bKBZbjGv3qNB3YTT6",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "3988c20adbcc801fb960db7eb67bdcd7",
-      "name": "《成城石井 エスパル仙台店》",
+      "name": "《超市》成城石井 エスパル仙台店",
       "city": "仙台市區",
       "detail": "營業時間 : 10:00–22:00",
       "map": "https://maps.app.goo.gl/mvG7E141FVqTdCYh9",
@@ -1029,7 +1029,7 @@
     },
     {
       "id": "3988c20adbcc80419c70c1621ce25dc6",
-      "name": "《THE MALL 仙台長町》24小時超市",
+      "name": "《購物》THE MALL 仙台長町(24小時超市)",
       "city": "仙台市區",
       "detail": "營業時間 : 24 小時營業\n大約地點 : (很遠)地鐵長町南站徒步1min",
       "map": "https://maps.app.goo.gl/bi2zH4qpz79oPQtk6",
@@ -1050,7 +1050,7 @@
     },
     {
       "id": "3988c20adbcc8065a748fc1f377e0582",
-      "name": "《S-PAL》伴手禮集中地",
+      "name": "《購物》S-PAL(伴手禮集中地)",
       "city": "仙台市區",
       "detail": "營業時間 : 10:00 ~ 20:00\n大約地點 : 仙台車站內",
       "map": "https://maps.app.goo.gl/7UawkUQAXa8oZnAdA",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "3988c20adbcc8074a604dc1eee4933b7",
-      "name": "《仙台泉 PREMIUM OUTLET》",
+      "name": "《購物》仙台泉 PREMIUM OUTLET",
       "city": "仙台市區",
       "detail": "營業時間 : 10:00–20:00\n大約地點 : 地鐵 泉中央站",
       "map": "https://maps.app.goo.gl/vjjKch4qWS2jyrda8",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "3988c20adbcc809c810cf52a7c4ba1b0",
-      "name": "《AEON MALL 名取》仙台機場旁邊",
+      "name": "《購物》AEON MALL 名取(仙台機場旁邊)",
       "city": "仙台市區",
       "detail": "營業時間 : 10:00–21:00\n大約地點 : 仙台機場Access線 杜關之下站 徒步2min",
       "map": "https://maps.app.goo.gl/HyT1Tfkw6nsZ73vq7",
@@ -1080,7 +1080,7 @@
     },
     {
       "id": "3988c20adbcc80aa9563f4bfa8482e78",
-      "name": "《仙台LOFT》",
+      "name": "《購物》仙台LOFT",
       "city": "仙台市區",
       "detail": "營業時間 : 10:00–20:00\n大約地點 : 仙台車站西口",
       "map": "https://maps.app.goo.gl/FQuS52ZF7EkTfjxp8",
@@ -1090,7 +1090,7 @@
     },
     {
       "id": "3988c20adbcc80b69d22fa34de950a58",
-      "name": "《AEON Express 仙台五橋駅前》",
+      "name": "《超市》AEON Express 仙台五橋駅前",
       "city": "仙台市區",
       "detail": "營業時間 : 08:00–23:00",
       "map": "https://maps.app.goo.gl/SKCXFPYab4R9Vh7p9",
@@ -1100,7 +1100,7 @@
     },
     {
       "id": "3988c20adbcc80c88393f96855babacd",
-      "name": "《AEON》",
+      "name": "《超市》AEON",
       "city": "仙台市區",
       "detail": "營業時間 : 08:00–23:00",
       "map": "https://maps.app.goo.gl/jkEQb5UME2Fm3oZA6",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "3988c20adbcc80cdba72ffd9819c6cad",
-      "name": "《Lopia 仙台Yodobashi》",
+      "name": "《超市》Lopia 仙台Yodobashi",
       "city": "仙台市區",
       "detail": "營業時間 : 10:00–21:00",
       "map": "https://maps.app.goo.gl/1t4XYzdXuTNGfFC7A",
@@ -1120,7 +1120,7 @@
     },
     {
       "id": "3988c20adbcc80d1a3f6d301a6006df4",
-      "name": "《Yodobashi 仙台》",
+      "name": "《購物》Yodobashi 仙台",
       "city": "仙台市區",
       "detail": "營業時間 : 09:30 ~ 22:00\n大約地點 : 仙台駅東口",
       "map": "https://maps.app.goo.gl/7HjWwacrYYxCcYfXA",
@@ -1130,7 +1130,7 @@
     },
     {
       "id": "3988c20adbcc80e99674c920c980f056",
-      "name": "《三井OUTLET PARK 仙台港》往返松島可途經",
+      "name": "《購物》三井OUTLET PARK 仙台港(往返松島可途經)",
       "city": "仙台市區",
       "detail": "營業時間 : 10:00–20:00\n大約地點 : JR 中野榮站 徒步8min",
       "map": "https://maps.app.goo.gl/rmjbGaAyrArYJNgdA",
@@ -1140,7 +1140,7 @@
     },
     {
       "id": "3988c20adbcc80ed947be20e5d2d35ee",
-      "name": "《北野エース エスパル仙台店》",
+      "name": "《超市》北野エース エスパル仙台店",
       "city": "仙台市區",
       "detail": "營業時間：10:00–21:00",
       "map": "https://maps.app.goo.gl/JUKbe9vkj5G2HQ4x5",
@@ -1150,7 +1150,7 @@
     },
     {
       "id": "3988c20adbcc80f3ba08db4c4c2251b2",
-      "name": "《仙台商店街》",
+      "name": "《購物》仙台商店街",
       "city": "仙台市區",
       "detail": "營業時間 : 大約到 20:00\n大約地點 : 仙台駅西邊徒步3min",
       "map": "https://maps.app.goo.gl/TN8vNCUoY3jNEXJbA",
@@ -2261,7 +2261,7 @@
     },
     {
       "id": "39c8c20adbcc81409d28d8094ed1185e",
-      "name": "《成城石井 名古屋LACHIC店》",
+      "name": "《超市》成城石井 名古屋LACHIC店",
       "city": "名古屋",
       "detail": "營業時間:每日 11:00–21:00\n電話號碼:052-269-5127\nGoogle評分:3.6★(239則)\n備註:ラシック B1F,栄核心,晚餐後採購首選(開到21:00)",
       "map": "https://maps.google.com/?cid=10619624160201640439",
@@ -2291,7 +2291,7 @@
     },
     {
       "id": "39c8c20adbcc8145b13ffecc7bb6cb11",
-      "name": "《明治屋 栄大津通店(松坂屋B1)》",
+      "name": "《超市》明治屋 栄大津通店(松坂屋B1)",
       "city": "名古屋",
       "detail": "營業時間:每日 10:00–20:00\n電話號碼:052-264-3851\nGoogle評分:3.8★(35則)\n備註:老牌高級超市(松坂屋名古屋店 B1),進口食材/伴手禮也好買",
       "map": "https://maps.google.com/?cid=12049302844325069239",

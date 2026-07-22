@@ -107,7 +107,12 @@
         "categories": [
           "🍴美食"
         ],
-        "bookingConfirmationUrl": "https://drive.google.com/file/d/1zCbf4xdQsLHq85footvTSFm5AF-yD3iN/view?usp=drive_link"
+        "attachments": [
+          {
+            "label": "訂位確認 善治郎牛舌",
+            "file": "attachments/dinner-zenjiro.pdf"
+          }
+        ]
       }
     ],
     "2026-07-29": [
@@ -213,7 +218,12 @@
         "categories": [
           "🍴美食"
         ],
-        "bookingConfirmationUrl": "https://drive.google.com/file/d/1Vmq_1WL0ECB7MGA90V6BuiHHJW0Go0Wl/view?usp=drive_link"
+        "attachments": [
+          {
+            "label": "訂位確認 閣牛舌",
+            "file": "attachments/dinner-kaku.png"
+          }
+        ]
       }
     ],
     "2026-07-30": [
@@ -1038,7 +1048,12 @@
         "categories": [
           "🚗移動"
         ],
-        "bookingConfirmationUrl": "https://www.notion.so/3998c20adbcc80d39bd8eed8d2f505fa"
+        "attachments": [
+          {
+            "label": "機票確認 NGO→TPE",
+            "file": "attachments/flight-ngo-tpe.pdf"
+          }
+        ]
       },
       {
         "type": "item",

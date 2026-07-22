@@ -29,6 +29,9 @@ const PRECACHE_URLS = [
   "./attachments/transit-ninohe-to-karumai.pdf",
   "./attachments/transit-karumai-to-ninohe.pdf",
   "./attachments/transit-centrair-to-meitetsu-nagoya.pdf",
+  "./attachments/dinner-zenjiro.pdf",
+  "./attachments/dinner-kaku.png",
+  "./attachments/flight-ngo-tpe.pdf",
 ];
 
 self.addEventListener("install", (event) => {

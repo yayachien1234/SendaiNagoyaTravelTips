@@ -46,6 +46,10 @@
   <main>
     <div class="filters">
       <input id="cand-search" class="searchbox" type="search" placeholder="搜尋店名、關鍵字…">
+      <div id="cand-interest-wrap" style="display:none;">
+        <div class="chiplabel">興趣快篩</div>
+        <div id="cand-interest-chips" class="chiprow"></div>
+      </div>
       <div id="cand-city-chips" class="chiprow"></div>
       <div id="cand-cat-chips" class="chiprow"></div>
     </div>
@@ -65,6 +69,7 @@
       <span>電話</span><b id="sheet-phone-num"></b>
     </div>
     <a id="sheet-map" class="map-btn" href="#" target="_blank" rel="noopener">在 Google 地圖開啟</a>
+    <a id="sheet-confirm" class="map-btn confirm" href="#" target="_blank" rel="noopener" style="display:none;">📄 查看訂位／訂房證明（需連網開Notion）</a>
     <button class="close" id="sheet-close">關閉</button>
   </div>
 </div>

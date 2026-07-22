@@ -2,13 +2,18 @@
   "use strict";
 
   const TZ = "Asia/Tokyo";
+  const CATEGORY_ORDER = ["👻活動", "🏡住宿", "🚗移動", "🛒購物", "🍎超市", "🏪便利商店", "🥯早餐", "🍴美食", "🏛️博物館", "☕咖啡廳", "📍景點", "⛩️神社", "🍰點心"];
   const state = {
     data: null,
     viewer: localStorage.getItem("viewer") || "我",
     dayIndex: 0,
     dates: [],
-    candFilters: { q: "", city: "全部", cats: new Set() },
+    candFilters: { q: "", city: "全部", cats: new Set(), interests: new Set() },
   };
+
+  function sortCategories(cats) {
+    return [...cats].sort((a, b) => CATEGORY_ORDER.indexOf(a) - CATEGORY_ORDER.indexOf(b));
+  }
 
   const $ = (sel) => document.querySelector(sel);
   const $$ = (sel) => Array.from(document.querySelectorAll(sel));
@@ -135,7 +140,7 @@
       const isNow = it.id === nowId;
       return `<button class="item-card ${isNow ? "now" : ""}" data-item-id="${it.id}">
         <span class="time">${it.time || "—"}</span>
-        <span class="cat">${it.category || ""}</span>
+        <span class="cat">${(it.categories || []).join("")}</span>
         <span class="body">
           ${isNow ? '<span class="now-badge">現在</span><br>' : ""}
           <span class="name">${escapeHtml(stripCategoryPrefix(it.name))}</span>
@@ -146,7 +151,10 @@
   }
 
   function stripCategoryPrefix(name) {
-    return (name || "").replace(/^《[^》]*》/, "");
+    const s = name || "";
+    const stripped = s.replace(/^《[^》]*》/, "");
+    // 括號內若就是店名本身（去掉後沒剩文字），不要砍，否則名稱會變空白
+    return stripped.trim() ? stripped : s;
   }
 
   function escapeHtml(s) {
@@ -164,7 +172,7 @@
   // ---------- detail sheet ----------
   function openSheet(item) {
     $("#sheet-name").textContent = stripCategoryPrefix(item.name);
-    $("#sheet-cat").textContent = [item.category, item.city].filter(Boolean).join(" ・ ");
+    $("#sheet-cat").textContent = [(item.categories || []).join(" "), item.city].filter(Boolean).join(" ・ ");
     $("#sheet-detail").textContent = item.detail || "";
     const phone = extractPhone(item.detail || "");
     if (phone) {
@@ -180,6 +188,13 @@
     } else {
       mapBtn.style.display = "none";
     }
+    const confirmBtn = $("#sheet-confirm");
+    if (item.bookingConfirmationUrl) {
+      confirmBtn.style.display = "";
+      confirmBtn.href = item.bookingConfirmationUrl;
+    } else {
+      confirmBtn.style.display = "none";
+    }
     $("#sheet-backdrop").classList.remove("hidden");
   }
   function closeSheet() {
@@ -188,30 +203,44 @@
 
   // ---------- candidates ----------
   function renderCandidateChips() {
+    const allInterests = new Set();
+    state.data.candidates.forEach((c) => (c.interests || []).forEach((i) => allInterests.add(i)));
+    const interestWrap = $("#cand-interest-wrap");
+    if (allInterests.size > 0) {
+      interestWrap.style.display = "";
+      $("#cand-interest-chips").innerHTML = Array.from(allInterests).map((i) =>
+        `<button class="chip interest ${state.candFilters.interests.has(i) ? "active" : ""}" data-interest="${escapeHtml(i)}">${escapeHtml(i)}</button>`
+      ).join("");
+    } else {
+      interestWrap.style.display = "none";
+    }
+
     const cities = ["全部", ...Array.from(new Set(state.data.candidates.map((c) => c.city).filter(Boolean)))];
     $("#cand-city-chips").innerHTML = cities.map((c) =>
       `<button class="chip ${c === state.candFilters.city ? "active" : ""}" data-city="${escapeHtml(c)}">${escapeHtml(c)}</button>`
     ).join("");
 
-    const cats = Array.from(new Set(state.data.candidates.map((c) => c.category).filter(Boolean)));
-    $("#cand-cat-chips").innerHTML = cats.map((c) =>
-      `<button class="chip" data-cat="${escapeHtml(c)}">${escapeHtml(c)}</button>`
+    const allCats = new Set();
+    state.data.candidates.forEach((c) => (c.categories || []).forEach((cc) => allCats.add(cc)));
+    $("#cand-cat-chips").innerHTML = sortCategories(allCats).map((c) =>
+      `<button class="chip ${state.candFilters.cats.has(c) ? "active" : ""}" data-cat="${escapeHtml(c)}">${escapeHtml(c)}</button>`
     ).join("");
   }
 
   function renderCandidates() {
-    const { q, city, cats } = state.candFilters;
+    const { q, city, cats, interests } = state.candFilters;
     const ql = q.trim().toLowerCase();
     const filtered = state.data.candidates.filter((c) => {
       if (city !== "全部" && c.city !== city) return false;
-      if (cats.size > 0 && !cats.has(c.category)) return false;
+      if (cats.size > 0 && !(c.categories || []).some((cc) => cats.has(cc))) return false;
+      if (interests.size > 0 && !(c.interests || []).some((ii) => interests.has(ii))) return false;
       if (ql && !(`${c.name} ${c.detail}`.toLowerCase().includes(ql))) return false;
       return true;
     });
     $("#cand-count").textContent = `${filtered.length} 個地點`;
     $("#candidate-list").innerHTML = filtered.map((c) => `
       <button class="cand-card" data-item-id="${c.id}">
-        <span class="cat">${c.category || ""}</span>
+        <span class="cat">${(c.categories || []).join("")}</span>
         <span class="body">
           <span class="name">${escapeHtml(stripCategoryPrefix(c.name))}</span>
           <div class="city">${escapeHtml(c.city || "")} ・ ${escapeHtml(firstGlanceLine(c.detail || ""))}</div>
@@ -248,6 +277,15 @@
       const chip = e.target.closest(".chip"); if (!chip) return;
       state.candFilters.city = chip.dataset.city;
       renderCandidateChips();
+      renderCandidates();
+    });
+
+    $("#cand-interest-chips").addEventListener("click", (e) => {
+      const chip = e.target.closest(".chip"); if (!chip) return;
+      const interest = chip.dataset.interest;
+      if (state.candFilters.interests.has(interest)) state.candFilters.interests.delete(interest);
+      else state.candFilters.interests.add(interest);
+      chip.classList.toggle("active");
       renderCandidates();
     });
 

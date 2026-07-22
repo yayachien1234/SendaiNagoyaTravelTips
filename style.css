@@ -129,6 +129,9 @@ main{padding:10px 14px 20px; max-width:640px; margin:0 auto;}
   display:block; text-align:center; margin-top:14px; padding:11px; border-radius:10px;
   background:var(--accent); color:#fff; font-weight:800; font-size:.9rem; text-decoration:none;
 }
+.sheet a.map-btn.confirm{
+  background:transparent; color:var(--accent); border:1px solid var(--accent-line); font-size:.82rem;
+}
 .sheet button.close{
   display:block; margin:10px auto 0; color:var(--muted); font-size:.8rem; padding:6px 14px;
 }
@@ -147,6 +150,9 @@ main{padding:10px 14px 20px; max-width:640px; margin:0 auto;}
   background:var(--card); border:1px solid var(--card-line); color:var(--muted); white-space:nowrap;
 }
 .chip.active{background:var(--accent); border-color:var(--accent); color:#fff;}
+.chiplabel{font-size:.7rem; font-weight:800; color:var(--muted); letter-spacing:.08em; margin:2px 2px 4px;}
+.chip.interest{border-color:var(--mom);}
+.chip.interest.active{background:var(--mom); border-color:var(--mom); color:#fff;}
 .resultcount{font-size:.76rem; color:var(--muted); margin:2px 2px 10px;}
 
 .candidate-list{display:flex; flex-direction:column; gap:8px;}

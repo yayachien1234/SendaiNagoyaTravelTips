@@ -33,6 +33,7 @@ const PRECACHE_URLS = [
   "./attachments/dinner-kaku.png",
   "./attachments/flight-ngo-tpe.pdf",
   "./attachments/marsushima-boat.pdf",
+  "./attachments/museum-brother.pdf",
 ];
 
 self.addEventListener("install", (event) => {

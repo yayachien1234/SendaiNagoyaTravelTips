@@ -863,11 +863,17 @@
         "id": "39c8c20adbcc81a9be62e58a6ca17794",
         "time": "15:00",
         "name": "《博物館》Brother Museum(裁縫機)",
-        "detail": "開館時間：週一至週五 10:00～17:00／週六日休\n網站：http://global.brother/ja/corporate/museum/\n電話號碼：052-824-2227\nGoogle評分：4.3★（295則）\n備註：免費；改由爸媽兩人參觀（我去大阪）；⚠️7、8月暑假期間名額全滿，線上訂不到，改email詢問後確認 15:00 場次可預約（原本申請10:30，官方回信改約15:00）；參觀約30分–1小時；搭名城線從堀田駅可達；參觀完返回栄與我在Lamian會合晚餐",
+        "detail": "開館時間：週一至週五 10:00～17:00／週六日休\n網站：http://global.brother/ja/corporate/museum/\n電話號碼：052-824-2227\nGoogle評分：4.3★（295則）\n備註：免費；改由爸媽兩人參觀（我去大阪）；⚠️7、8月暑假期間名額全滿，線上訂不到，改email詢問後已確認預約 15:00 場次（官方回信確認）；參觀約30分–1小時；搭名城線從堀田駅可達；參觀完返回栄與我在Lamian會合晚餐",
         "map": "https://maps.google.com/?cid=6706981227682059622",
         "viewerOnly": null,
         "categories": [
           "🏛️博物館"
+        ],
+        "attachments": [
+          {
+            "label": "預約確認 Brother Museum",
+            "file": "attachments/museum-brother.pdf"
+          }
         ]
       },
       {

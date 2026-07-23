@@ -812,18 +812,6 @@
       },
       {
         "type": "item",
-        "id": "39c8c20adbcc81a9be62e58a6ca17794",
-        "time": null,
-        "name": "《博物館》Brother Museum(裁縫機)",
-        "detail": "開館時間：週一至週五 10:00～17:00／週六日休\n網站：http://global.brother/ja/corporate/museum/\n電話號碼：052-824-2227\nGoogle評分：4.3★（295則）\n備註：免費；改由爸媽兩人參觀（我去大阪），參觀完自行安排下午；搭名城線從久屋大通/栄直達約20分；晚餐三人於Lamian集合，約18:00",
-        "map": "https://maps.google.com/?cid=6706981227682059622",
-        "viewerOnly": null,
-        "categories": [
-          "🏛️博物館"
-        ]
-      },
-      {
-        "type": "item",
         "id": "3a58c20adbcc81129a64fae5be511f4e",
         "time": "10:18",
         "name": "《活動》全スーパー戦隊展(大阪會場)",
@@ -851,16 +839,12 @@
         "id": "39c8c20adbcc81719314f3a0aa24a3f7",
         "time": "13:15",
         "name": "《美食》すごいTKG たまらん",
-        "detail": "營業時間:每日 11:00–15:00\n網站:https://tabelog.com/aichi/A2301/A230103/23085755/\n電話號碼:052-211-7553\nGoogle評分:3.9★(92則)\n備註:排定 8/4 午餐(約13:15,Brother 回程名城線栄站上蓋マルエイガレリア 3F);生蛋拌飯專門,⚠️只開午間",
+        "detail": "營業時間:每日 11:00–15:00\n網站:https://tabelog.com/aichi/A2301/A230103/23085755/\n電話號碼:052-211-7553\nGoogle評分:3.9★(92則)\n備註:排定 8/4 午餐(約13:15,栄站上蓋マルエイガレリア 3F);生蛋拌飯專門,⚠️只開午間;吃完前往Brother Museum(15:00預約)",
         "map": "https://maps.google.com/?cid=118131947167438620",
         "viewerOnly": null,
         "categories": [
           "🍴美食"
         ]
-      },
-      {
-        "type": "free",
-        "label": "爸媽參觀完Brother Museum、午餐後，下午可自行前往東区泉一帶老店歇腳，例如鍋屋（廚房用品老舖）、Ito Coffee（伊藤珈琲本店）、喫茶ボンボン（復古蛋糕），18:00 於 Lamian 與我會合晚餐"
       },
       {
         "type": "item",
@@ -873,6 +857,22 @@
         "categories": [
           "🛒購物"
         ]
+      },
+      {
+        "type": "item",
+        "id": "39c8c20adbcc81a9be62e58a6ca17794",
+        "time": "15:00",
+        "name": "《博物館》Brother Museum(裁縫機)",
+        "detail": "開館時間：週一至週五 10:00～17:00／週六日休\n網站：http://global.brother/ja/corporate/museum/\n電話號碼：052-824-2227\nGoogle評分：4.3★（295則）\n備註：免費；改由爸媽兩人參觀（我去大阪）；⚠️7、8月暑假期間名額全滿，線上訂不到，改email詢問後確認 15:00 場次可預約（原本申請10:30，官方回信改約15:00）；參觀約30分–1小時；搭名城線從堀田駅可達；參觀完返回栄與我在Lamian會合晚餐",
+        "map": "https://maps.google.com/?cid=6706981227682059622",
+        "viewerOnly": null,
+        "categories": [
+          "🏛️博物館"
+        ]
+      },
+      {
+        "type": "free",
+        "label": "爸媽逛完泉區老店、吃完午餐後，15:00 前往 Brother Museum 參觀（已預約），參觀完還有餘裕，18:00 於 Lamian 與我會合晚餐"
       },
       {
         "type": "item",
